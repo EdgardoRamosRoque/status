@@ -3,12 +3,20 @@ owner: edgardoramosroque # Your GitHub organization or username, where this repo
 repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Portal UNA
+    url: https://www.una.ac.cr
+  - name: Aula Virtual - Institucional
+    url: https://www.aulavirtual.una.ac.cr/login/index.php
+  - name: Portal Bibliotecas
+    url: https://www.siduna.una.ac.cr/
+  - name: Portal Directorio
+    url: https://www.directorio.una.ac.cr/
+  - name: Calendario Universitario
+    url: https://www.calendario.una.ac.cr
+  - name: Portal Preguntas Frecuentes
+    url: https://www.preguntasfrecuentes.una.ac.cr
+  - name: Portal Documentos
+    url: https://www.documentos.una.ac.cr
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
     
