@@ -24,15 +24,15 @@ assignees:
   - edgardoramosroque
   
 status-website:
-  theme: ocean
+  theme: light
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.una.ac.cr/wp-content/uploads/2020/10/logo_una.png
   name: Estado de URL Universidad Nacional
-  introTitle: "P&aacute;gina de Estado de los URL de la Universidad Nacional de Costa Rica, (https://www.una.ac.cr/) basdao en una herramienta OpenSource **Upptime** 
-  y hospedada y soportada por GitHub."
+  introTit
+  le: "P&aacute;gina de estado de los URL de la Universidad Nacional de Costa Rica, (https://www.una.ac.cr/) basado en una herramienta OpenSource **Upptime** , hospedada y soportada por GitHub."
   introMessage: Mediante este sitio, verificamos el estado de los portales Universitarios.
   navbar:
     - title: Status
