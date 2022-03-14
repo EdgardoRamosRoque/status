@@ -31,8 +31,7 @@ status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/EdgardoRamosRoque/status/7b9f15eb4aae9902387fef6183fb264e64fb3b89/Logo-UNA.svg
   name: Estado de URL Universidad Nacional
-  introTitle: "P&aacute;gina de estado de los URL de la Universidad Nacional de Costa Rica, (https://www.una.ac.cr/) basado en una herramienta OpenSource **Upptime** 
-  , hospedada y soportada por GitHub."
+  introTitle: "P&aacute;gina de estado de los URL de la Universidad Nacional de Costa Rica, (https://www.una.ac.cr/)"
   introMessage: Mediante este sitio, verificamos el estado de los portales Universitarios.
   navbar:
     - title: Status
