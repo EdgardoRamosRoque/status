@@ -29,10 +29,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status
-  #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Estado de URL Universidad Nacional
-  introTit
-  le: "P&aacute;gina de estado de los URL de la Universidad Nacional de Costa Rica, (https://www.una.ac.cr/) basado en una herramienta OpenSource **Upptime** , hospedada y soportada por GitHub."
+  introTitle: "P&aacute;gina de estado de los URL de la Universidad Nacional de Costa Rica, (https://www.una.ac.cr/) basado en una herramienta OpenSource **Upptime** 
+  , hospedada y soportada por GitHub."
   introMessage: Mediante este sitio, verificamos el estado de los portales Universitarios.
   navbar:
     - title: Status
