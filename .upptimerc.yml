@@ -12,12 +12,12 @@ sites:
   - name: Portal Directorio
     url: https://www.directorio.una.ac.cr/
   - name: Calendario Universitario
-    url: https://www.calendario.una.ac.cr
+    url: https://www.calendario.una.ac.cr/
   - name: Portal Preguntas Frecuentes
-    url: https://www.preguntasfrecuentes.una.ac.cr
+    url: https://www.preguntasfrecuentes.una.ac.cr/
   - name: Portal Documentos
-    url: https://www.documentos.una.ac.cr
-  customBodyHtml: "<b>Caidos</b>"
+    url: https://www.documentos.una.ac.cr/
+customBodyHtml: "<b>Caidos</b>"
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
     
