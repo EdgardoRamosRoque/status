@@ -17,6 +17,7 @@ sites:
     url: https://www.preguntasfrecuentes.una.ac.cr
   - name: Portal Documentos
     url: https://www.documentos.una.ac.cr
+  customBodyHtml: "<b>Caidos</b>"
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
     
