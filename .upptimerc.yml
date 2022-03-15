@@ -17,10 +17,8 @@ sites:
     url: https://www.preguntasfrecuentes.una.ac.cr/
   - name: Portal Documentos
     url: https://www.documentos.una.ac.cr/
-  - name: Sitio Revision 1
-    url: https://revision-unaweb.una.ac.cr/
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Sitio Redes Frances
+    url: https://www.redesfrances.una.ac.cr/
     
 assignees:
   - edgardoramosroque
