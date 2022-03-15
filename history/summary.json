@@ -4,54 +4,60 @@
     "url": "https://www.una.ac.cr",
     "icon": "https://favicons.githubusercontent.com/www.una.ac.cr",
     "slug": "portal-una",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
     "time": 4456,
     "timeDay": 4456,
     "timeWeek": 4456,
     "timeMonth": 4456,
     "timeYear": 4456,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-15": 3
+    }
   },
   {
     "name": "Aula Virtual - Institucional",
     "url": "https://www.aulavirtual.una.ac.cr/login/index.php",
     "icon": "https://favicons.githubusercontent.com/www.aulavirtual.una.ac.cr",
     "slug": "aula-virtual-institucional",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 1971,
     "timeDay": 1971,
     "timeWeek": 1971,
     "timeMonth": 1971,
     "timeYear": 1971,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-15": 3
+    }
   },
   {
     "name": "Portal Bibliotecas",
     "url": "https://www.siduna.una.ac.cr/",
     "icon": "https://favicons.githubusercontent.com/www.siduna.una.ac.cr",
     "slug": "portal-bibliotecas",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 2098,
     "timeDay": 2098,
     "timeWeek": 2098,
     "timeMonth": 2098,
     "timeYear": 2098,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-15": 2
+    }
   },
   {
     "name": "Portal Directorio",
@@ -59,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/www.directorio.una.ac.cr",
     "slug": "portal-directorio",
     "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
+    "uptime": "98.64%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "98.64%",
     "time": 5718,
     "timeDay": 5718,
     "timeWeek": 5718,
     "timeMonth": 5718,
     "timeYear": 5718,
     "dailyMinutesDown": {
-      "2022-03-15": 4
+      "2022-03-15": 14
     }
   },
   {
@@ -79,18 +85,18 @@
     "icon": "https://favicons.githubusercontent.com/www.calendario.una.ac.cr",
     "slug": "calendario-universitario",
     "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptime": "98.79%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "98.79%",
     "time": 3091,
     "timeDay": 3091,
     "timeWeek": 3091,
     "timeMonth": 3091,
     "timeYear": 3091,
     "dailyMinutesDown": {
-      "2022-03-15": 3
+      "2022-03-15": 12
     }
   },
   {
@@ -99,18 +105,18 @@
     "icon": "https://favicons.githubusercontent.com/www.preguntasfrecuentes.una.ac.cr",
     "slug": "portal-preguntas-frecuentes",
     "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptime": "98.88%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "98.88%",
     "time": 3119,
     "timeDay": 3119,
     "timeWeek": 3119,
     "timeMonth": 3119,
     "timeYear": 3119,
     "dailyMinutesDown": {
-      "2022-03-15": 2
+      "2022-03-15": 11
     }
   },
   {
@@ -119,18 +125,18 @@
     "icon": "https://favicons.githubusercontent.com/www.documentos.una.ac.cr",
     "slug": "portal-documentos",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.04%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "99.04%",
     "time": 3331,
     "timeDay": 3331,
     "timeWeek": 3331,
     "timeMonth": 3331,
     "timeYear": 3331,
     "dailyMinutesDown": {
-      "2022-03-15": 0
+      "2022-03-15": 10
     }
   },
   {
