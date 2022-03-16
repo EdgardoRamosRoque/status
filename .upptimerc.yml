@@ -5,19 +5,61 @@ repo: status # The name of this repository
 sites:
   - name: Portal UNA
     url: https://www.una.ac.cr
+  - name: Carreras UNA
+    url: https://www.carreras.una.ac.cr    
+  - name: Calendario Universitario  
+    url: https://www.calendario.una.ac.cr/
+  - name: Portal Directorio
+    url: https://www.directorio.una.ac.cr/
+  - name: Portal UNACOMUNICA
+    url: https://www.unacomunica.una.ac.cr/    
+  - name: Portal Transparencia
+    url: https://www.transparencia.una.ac.cr/    
+  - name: Portal Preguntas Frecuentes
+    url: https://www.preguntasfrecuentes.una.ac.cr/
+  - name: Portal COVID19
+    url: https://www.covid19.una.ac.cr/
+  - name: Portal Documentos
+    url: https://www.documentos.una.ac.cr/
+  - name: Portal Repositorio
+    url: https://www.repositorio.una.ac.cr/
+  - name: Portal Revistas Universitarias
+    url: https://www.revistas.una.ac.cr/
+  - name: Portal RedAcademica
+    url: https://redacademica.una.ac.cr/
+  - name: Portal Rectoria
+    url: https://www.rectoria.una.ac.cr/
+  - name: Portal Registro
+    url: https://www.registro.una.ac.cr/
   - name: Aula Virtual - Institucional
     url: https://www.aulavirtual.una.ac.cr/login/index.php
   - name: Portal Bibliotecas
     url: https://www.siduna.una.ac.cr/
-  - name: Portal Directorio
-    url: https://www.directorio.una.ac.cr/
-  - name: Calendario Universitario
-    url: https://www.calendario.una.ac.cr/
-  - name: Portal Preguntas Frecuentes
-    url: https://www.preguntasfrecuentes.una.ac.cr/
-  - name: Portal Documentos
-    url: https://www.documentos.una.ac.cr/
-
+  - name: Portal Vicerrectoria Vida Estudiantil
+    url: https://www.vidaestudiantil.una.ac.cr/
+  - name: Portal Vicerrectoria Administracion
+    url: https://www.vadm.una.ac.cr/
+  - name: Portal Vicerrectoria Extension
+    url: https://www.extension.una.ac.cr/
+  - name: Portal Vicerrectoria Docencua
+    url: https://www.docencia.una.ac.cr/
+  - name: Portal Proveeduria
+    url: https://www.proveeduria.una.ac.cr/
+  - name: Portal Facultad Filosofia
+    url: https://www.facultadfilosofia.una.ac.cr/
+  - name: Portal Facultad de Tierra y Mar
+    url: https://www.tierraymar.una.ac.cr/
+  - name: Portal Facultad de Ciencias Social
+    url: https://www.cienciassociales.una.ac.cr/
+  - name: Portal Facultad de Ciencias Exactas y Naturales
+    url: https://www.exactasynaturales.una.ac.cr/
+  - name: Portal Estudios Generales
+    url: https://www.ceg.una.ac.cr/
+  - name: Portal CIDE
+    url: https://www.cide.una.ac.cr/
+  - name: Portal CIDEA
+    url: https://www.cidea.una.ac.cr/
+    
 assignees:
   - edgardoramosroque
   
