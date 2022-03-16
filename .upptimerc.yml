@@ -53,6 +53,8 @@ sites:
     url: https://www.cienciassociales.una.ac.cr/
   - name: Portal Facultad de Ciencias Exactas y Naturales
     url: https://www.exactasynaturales.una.ac.cr/
+  - name: Portal Facultad de Ciencias de la Salud
+    url: https://www.fcsalud.una.ac.cr/    
   - name: Portal Estudios Generales
     url: https://www.ceg.una.ac.cr/
   - name: Portal CIDE
