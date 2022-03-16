@@ -4,9 +4,9 @@ repo: status # The name of this repository
 
 sites:
   - name: Portal UNA
-    url: https://www.una.ac.cr
+    url: https://www.una.ac.cr/
   - name: Carreras UNA
-    url: https://www.carreras.una.ac.cr    
+    url: https://www.carreras.una.ac.cr/    
   - name: Calendario Universitario  
     url: https://www.calendario.una.ac.cr/
   - name: Portal Directorio
@@ -32,7 +32,7 @@ sites:
   - name: Portal Registro
     url: https://www.registro.una.ac.cr/
   - name: Aula Virtual - Institucional
-    url: https://www.aulavirtual.una.ac.cr/login/index.php
+    url: https://www.aulavirtual.una.ac.cr/
   - name: Portal Bibliotecas
     url: https://www.siduna.una.ac.cr/
   - name: Portal Vicerrectoria Vida Estudiantil
