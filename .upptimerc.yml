@@ -68,7 +68,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.una.ac.cr
-  baseUrl: /status
+  # baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/EdgardoRamosRoque/status/7b9f15eb4aae9902387fef6183fb264e64fb3b89/Logo-UNA.svg
   name: Estado de URL Universidad Nacional
   introTitle: "P&aacute;gina de estado de los URL de la Universidad Nacional de Costa Rica, (https://www.una.ac.cr/)"
