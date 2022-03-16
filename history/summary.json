@@ -415,19 +415,17 @@
     "icon": "https://favicons.githubusercontent.com/www.tierraymar.una.ac.cr",
     "slug": "portal-facultad-de-tierra-y-mar",
     "status": "up",
-    "uptime": "19.18%",
-    "uptimeDay": "19.18%",
-    "uptimeWeek": "19.18%",
-    "uptimeMonth": "19.18%",
-    "uptimeYear": "19.18%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 810,
     "timeDay": 810,
     "timeWeek": 810,
     "timeMonth": 810,
     "timeYear": 810,
-    "dailyMinutesDown": {
-      "2022-03-16": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portal Facultad de Ciencias Social",
@@ -507,18 +505,16 @@
     "icon": "https://favicons.githubusercontent.com/www.cidea.una.ac.cr",
     "slug": "portal-cidea",
     "status": "up",
-    "uptime": "4.51%",
-    "uptimeDay": "4.51%",
-    "uptimeWeek": "4.51%",
-    "uptimeMonth": "4.51%",
-    "uptimeYear": "4.51%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1060,
     "timeDay": 1060,
     "timeWeek": 1060,
     "timeMonth": 1060,
     "timeYear": 1060,
-    "dailyMinutesDown": {
-      "2022-03-16": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
