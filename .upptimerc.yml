@@ -17,9 +17,7 @@ sites:
     url: https://www.preguntasfrecuentes.una.ac.cr/
   - name: Portal Documentos
     url: https://www.documentos.una.ac.cr/
-  - name: Sitio Redes Frances
-    url: https://www.redesfrances.una.ac.cr/
-    
+
 assignees:
   - edgardoramosroque
   
