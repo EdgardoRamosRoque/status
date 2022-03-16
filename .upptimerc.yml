@@ -41,7 +41,7 @@ sites:
     url: https://www.vadm.una.ac.cr/
   - name: Portal Vicerrectoria Extension
     url: https://www.extension.una.ac.cr/
-  - name: Portal Vicerrectoria Docencua
+  - name: Portal Vicerrectoria Docencia
     url: https://www.docencia.una.ac.cr/
   - name: Portal Proveeduria
     url: https://www.proveeduria.una.ac.cr/
