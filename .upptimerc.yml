@@ -67,7 +67,7 @@ status-website:
   theme: light
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
+  cname: status.una.ac.cr
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/EdgardoRamosRoque/status/7b9f15eb4aae9902387fef6183fb264e64fb3b89/Logo-UNA.svg
   name: Estado de URL Universidad Nacional
