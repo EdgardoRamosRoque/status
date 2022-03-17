@@ -61,6 +61,8 @@ sites:
     url: https://www.cide.una.ac.cr/
   - name: Portal CIDEA
     url: http://www.cidea.una.ac.cr/
+  - name: Live CIDEA
+    url: https://live.radiocidea.una.ac.cr/
     
 assignees:
   - edgardoramosroque
