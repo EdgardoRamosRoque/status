@@ -12,7 +12,7 @@
     "uptimeYear": "99.51%",
     "time": 2122,
     "timeDay": 1597,
-    "timeWeek": 1740,
+    "timeWeek": 1667,
     "timeMonth": 2122,
     "timeYear": 2122,
     "dailyMinutesDown": {
@@ -34,7 +34,7 @@
     "uptimeYear": "99.77%",
     "time": 1783,
     "timeDay": 1697,
-    "timeWeek": 1887,
+    "timeWeek": 1809,
     "timeMonth": 1783,
     "timeYear": 1783,
     "dailyMinutesDown": {
@@ -54,7 +54,7 @@
     "uptimeYear": "99.58%",
     "time": 3143,
     "timeDay": 2942,
-    "timeWeek": 3395,
+    "timeWeek": 3230,
     "timeMonth": 3143,
     "timeYear": 3143,
     "dailyMinutesDown": {
@@ -75,7 +75,7 @@
     "uptimeYear": "99.58%",
     "time": 2942,
     "timeDay": 2530,
-    "timeWeek": 2493,
+    "timeWeek": 2404,
     "timeMonth": 2942,
     "timeYear": 2942,
     "dailyMinutesDown": {
@@ -96,7 +96,7 @@
     "uptimeYear": "99.78%",
     "time": 2177,
     "timeDay": 2099,
-    "timeWeek": 2323,
+    "timeWeek": 2236,
     "timeMonth": 2177,
     "timeYear": 2177,
     "dailyMinutesDown": {
@@ -116,7 +116,7 @@
     "uptimeYear": "99.78%",
     "time": 1368,
     "timeDay": 1364,
-    "timeWeek": 1489,
+    "timeWeek": 1437,
     "timeMonth": 1368,
     "timeYear": 1368,
     "dailyMinutesDown": {
@@ -136,7 +136,7 @@
     "uptimeYear": "99.62%",
     "time": 2451,
     "timeDay": 2143,
-    "timeWeek": 2405,
+    "timeWeek": 2320,
     "timeMonth": 2451,
     "timeYear": 2451,
     "dailyMinutesDown": {
@@ -157,7 +157,7 @@
     "uptimeYear": "99.82%",
     "time": 4900,
     "timeDay": 4820,
-    "timeWeek": 5067,
+    "timeWeek": 4902,
     "timeMonth": 4900,
     "timeYear": 4900,
     "dailyMinutesDown": {
@@ -251,19 +251,19 @@
     "url": "https://www.rectoria.una.ac.cr/",
     "icon": "https://favicons.githubusercontent.com/www.rectoria.una.ac.cr",
     "slug": "portal-rectoria",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 4225,
-    "timeDay": 4026,
-    "timeWeek": 4162,
-    "timeMonth": 4225,
-    "timeYear": 4225,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 4240,
+    "timeDay": 4383,
+    "timeWeek": 4219,
+    "timeMonth": 4240,
+    "timeYear": 4240,
     "dailyMinutesDown": {
-      "2022-04-06": 2,
+      "2022-04-06": 11,
       "2022-04-05": 54,
       "2022-03-22": 17
     }
