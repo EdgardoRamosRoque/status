@@ -69,11 +69,11 @@
     "url": "https://www.directorio.una.ac.cr/",
     "icon": "https://favicons.githubusercontent.com/www.directorio.una.ac.cr",
     "slug": "portal-directorio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "98.09%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.76%",
     "time": 3179,
     "timeDay": 8723,
@@ -81,7 +81,7 @@
     "timeMonth": 3398,
     "timeYear": 3179,
     "dailyMinutesDown": {
-      "2022-05-02": 28,
+      "2022-05-02": 30,
       "2022-03-22": 68,
       "2022-03-15": 72
     }
