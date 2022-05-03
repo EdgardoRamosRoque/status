@@ -33,11 +33,9 @@ sites:
     url: https://www.registro.una.ac.cr/
   - name: Aula Virtual - Institucional
     url: https://www.aulavirtual.una.ac.cr/
-    <!-- 
     start: 2022-05-03T08:00:00.000Z
     end: 2022-05-06T14:00:00.220Z
     expectedDown: Aula Virtual - Institucional
-    -->
   - name: Portal Bibliotecas
     url: https://www.siduna.una.ac.cr/
   - name: Portal Vicerrectoria Vida Estudiantil
