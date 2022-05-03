@@ -2,6 +2,12 @@
 owner: edgardoramosroque # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
+<!--
+start: 2022-05-03T08:00:00.000Z
+end: 2022-05-06T14:00:00.220Z
+expectedDown: Aula Virtual - Institucional
+-->
+
 sites:
   - name: Portal UNA
     url: https://www.una.ac.cr/
