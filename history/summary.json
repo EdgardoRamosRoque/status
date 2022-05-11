@@ -452,19 +452,19 @@
     "url": "https://www.facultadfilosofia.una.ac.cr/",
     "icon": "https://favicons.githubusercontent.com/www.facultadfilosofia.una.ac.cr",
     "slug": "portal-facultad-filosofia",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1416,
-    "timeDay": 1456,
-    "timeWeek": 1364,
-    "timeMonth": 1408,
-    "timeYear": 1416,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
+    "time": 1414,
+    "timeDay": 1383,
+    "timeWeek": 1358,
+    "timeMonth": 1405,
+    "timeYear": 1414,
     "dailyMinutesDown": {
-      "2022-05-11": 1
+      "2022-05-11": 31
     }
   },
   {
