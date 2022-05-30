@@ -289,11 +289,11 @@
     "icon": "https://favicons.githubusercontent.com/www.registro.una.ac.cr",
     "slug": "portal-registro",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.91%",
-    "uptimeYear": "99.48%",
+    "uptimeYear": "99.49%",
     "time": 1911,
     "timeDay": 2774,
     "timeWeek": 2376,
@@ -384,9 +384,9 @@
     "url": "https://www.vadm.una.ac.cr/",
     "icon": "https://favicons.githubusercontent.com/www.vadm.una.ac.cr",
     "slug": "portal-vicerrectoria-administracion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
@@ -396,6 +396,7 @@
     "timeMonth": 2592,
     "timeYear": 2352,
     "dailyMinutesDown": {
+      "2022-05-30": 1,
       "2022-05-02": 26,
       "2022-04-29": 22
     }
