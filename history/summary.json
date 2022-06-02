@@ -366,19 +366,19 @@
     "url": "https://www.vidaestudiantil.una.ac.cr/",
     "icon": "https://favicons.githubusercontent.com/www.vidaestudiantil.una.ac.cr",
     "slug": "portal-vicerrectoria-vida-estudiantil",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1719,
-    "timeDay": 2059,
-    "timeWeek": 1892,
-    "timeMonth": 1771,
-    "timeYear": 1719,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 1718,
+    "timeDay": 1840,
+    "timeWeek": 1858,
+    "timeMonth": 1767,
+    "timeYear": 1718,
     "dailyMinutesDown": {
-      "2022-06-02": 2
+      "2022-06-02": 18
     }
   },
   {
