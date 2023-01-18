@@ -1,7 +1,7 @@
 url: https://www.siduna.una.ac.cr/
-status: up
-code: 200
-responseTime: 1312
-lastUpdated: 2023-01-17T23:07:49.841Z
+status: down
+code: 500
+responseTime: 1095
+lastUpdated: 2023-01-18T13:30:36.007Z
 startTime: Mon Mar 14 2022 17:53:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
