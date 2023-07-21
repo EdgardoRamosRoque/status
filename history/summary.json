@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1994,
-    "timeDay": 2045,
-    "timeWeek": 1837,
-    "timeMonth": 1705,
+    "time": 1992,
+    "timeDay": 2098,
+    "timeWeek": 1857,
+    "timeMonth": 1746,
     "timeYear": 1849,
     "dailyMinutesDown": {
       "2023-06-08": 118,
@@ -26,8 +26,7 @@
       "2022-12-14": 50,
       "2022-10-22": 26,
       "2022-10-04": 15,
-      "2022-08-20": 31,
-      "2022-07-21": 26
+      "2022-08-20": 31
     }
   },
   {
@@ -41,10 +40,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 2304,
-    "timeDay": 2259,
-    "timeWeek": 2009,
-    "timeMonth": 2021,
+    "time": 2294,
+    "timeDay": 2354,
+    "timeWeek": 2014,
+    "timeMonth": 1956,
     "timeYear": 2103,
     "dailyMinutesDown": {
       "2023-06-08": 118,
@@ -57,8 +56,7 @@
       "2023-02-10": 17,
       "2023-02-03": 19,
       "2022-12-15": 71,
-      "2022-10-22": 25,
-      "2022-07-21": 26
+      "2022-10-22": 25
     }
   },
   {
@@ -72,19 +70,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 3088,
-    "timeDay": 3207,
-    "timeWeek": 3569,
-    "timeMonth": 3192,
-    "timeYear": 2899,
+    "time": 3084,
+    "timeDay": 3716,
+    "timeWeek": 3067,
+    "timeMonth": 3209,
+    "timeYear": 2893,
     "dailyMinutesDown": {
       "2023-06-08": 118,
       "2023-06-07": 71,
       "2023-06-01": 25,
       "2023-04-01": 58,
       "2023-02-20": 19,
-      "2023-02-03": 19,
-      "2022-07-21": 26
+      "2023-02-03": 19
     }
   },
   {
@@ -98,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 2558,
-    "timeDay": 2127,
-    "timeWeek": 2116,
-    "timeMonth": 1932,
-    "timeYear": 2266,
+    "time": 2544,
+    "timeDay": 2139,
+    "timeWeek": 1953,
+    "timeMonth": 1913,
+    "timeYear": 2249,
     "dailyMinutesDown": {
       "2023-06-08": 118,
       "2023-06-07": 71,
@@ -111,8 +108,7 @@
       "2023-02-20": 19,
       "2023-02-10": 15,
       "2023-02-03": 19,
-      "2022-12-15": 67,
-      "2022-07-21": 26
+      "2022-12-15": 67
     }
   },
   {
@@ -121,16 +117,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.unacomunica.una.ac.cr.ico",
     "slug": "portal-unacomunica",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 2611,
-    "timeDay": 2827,
-    "timeWeek": 2553,
-    "timeMonth": 2443,
-    "timeYear": 2309,
+    "time": 2597,
+    "timeDay": 2800,
+    "timeWeek": 2523,
+    "timeMonth": 2460,
+    "timeYear": 2310,
     "dailyMinutesDown": {
       "2023-06-08": 281,
       "2023-06-07": 70,
@@ -141,8 +137,7 @@
       "2023-02-03": 19,
       "2022-12-15": 72,
       "2022-12-14": 49,
-      "2022-11-10": 24,
-      "2022-07-21": 26
+      "2022-11-10": 24
     }
   },
   {
@@ -156,11 +151,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 1523,
-    "timeDay": 1632,
-    "timeWeek": 1453,
-    "timeMonth": 1389,
-    "timeYear": 1515,
+    "time": 1524,
+    "timeDay": 1835,
+    "timeWeek": 1479,
+    "timeMonth": 1424,
+    "timeYear": 1514,
     "dailyMinutesDown": {
       "2023-06-12": 43,
       "2023-06-08": 119,
@@ -172,8 +167,7 @@
       "2022-12-15": 71,
       "2022-12-14": 47,
       "2022-11-28": 20,
-      "2022-11-10": 23,
-      "2022-07-21": 26
+      "2022-11-10": 23
     }
   },
   {
@@ -187,11 +181,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 2813,
-    "timeDay": 2952,
-    "timeWeek": 2877,
-    "timeMonth": 2740,
-    "timeYear": 2720,
+    "time": 2819,
+    "timeDay": 3316,
+    "timeWeek": 2917,
+    "timeMonth": 2832,
+    "timeYear": 2727,
     "dailyMinutesDown": {
       "2023-06-08": 119,
       "2023-06-07": 69,
@@ -202,8 +196,7 @@
       "2023-02-03": 19,
       "2022-12-15": 110,
       "2022-12-14": 46,
-      "2022-11-10": 21,
-      "2022-07-21": 26
+      "2022-11-10": 21
     }
   },
   {
@@ -217,11 +210,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 3685,
-    "timeDay": 1916,
-    "timeWeek": 1738,
-    "timeMonth": 1777,
-    "timeYear": 3145,
+    "time": 3662,
+    "timeDay": 1999,
+    "timeWeek": 2976,
+    "timeMonth": 1960,
+    "timeYear": 3106,
     "dailyMinutesDown": {
       "2023-06-08": 119,
       "2023-06-07": 68,
@@ -230,8 +223,7 @@
       "2023-02-20": 19,
       "2023-02-03": 19,
       "2022-12-15": 40,
-      "2022-09-09": 29,
-      "2022-07-21": 26
+      "2022-09-09": 29
     }
   },
   {
@@ -240,15 +232,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.documentos.una.ac.cr.ico",
     "slug": "portal-documentos",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 2420,
-    "timeDay": 2710,
-    "timeWeek": 2404,
-    "timeMonth": 2271,
+    "time": 2407,
+    "timeDay": 2647,
+    "timeWeek": 2392,
+    "timeMonth": 2288,
     "timeYear": 2423,
     "dailyMinutesDown": {
       "2023-06-08": 119,
@@ -267,14 +259,14 @@
     "status": "up",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.73%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.82%",
-    "time": 4555,
-    "timeDay": 4703,
-    "timeWeek": 4322,
-    "timeMonth": 4325,
-    "timeYear": 4538,
+    "time": 4552,
+    "timeDay": 4959,
+    "timeWeek": 4441,
+    "timeMonth": 4346,
+    "timeYear": 4537,
     "dailyMinutesDown": {
       "2023-07-12": 27,
       "2023-06-08": 281,
@@ -305,11 +297,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
-    "time": 1577,
-    "timeDay": 2053,
-    "timeWeek": 1541,
-    "timeMonth": 1455,
-    "timeYear": 1537,
+    "time": 1575,
+    "timeDay": 1683,
+    "timeWeek": 1533,
+    "timeMonth": 1472,
+    "timeYear": 1535,
     "dailyMinutesDown": {
       "2023-06-09": 459,
       "2023-06-08": 561,
@@ -332,10 +324,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
-    "time": 2965,
-    "timeDay": 1795,
-    "timeWeek": 1658,
-    "timeMonth": 1586,
+    "time": 2968,
+    "timeDay": 1836,
+    "timeWeek": 1692,
+    "timeMonth": 1617,
     "timeYear": 3330,
     "dailyMinutesDown": {
       "2023-06-08": 217,
@@ -345,8 +337,7 @@
       "2023-04-01": 32,
       "2023-02-07": 24,
       "2023-02-03": 20,
-      "2022-11-26": 1222,
-      "2022-07-21": 26
+      "2022-11-26": 1222
     }
   },
   {
@@ -360,11 +351,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 2388,
-    "timeDay": 2250,
-    "timeWeek": 2013,
-    "timeMonth": 2113,
-    "timeYear": 1927,
+    "time": 2362,
+    "timeDay": 2215,
+    "timeWeek": 1979,
+    "timeMonth": 2127,
+    "timeYear": 1903,
     "dailyMinutesDown": {
       "2023-06-12": 43,
       "2023-06-08": 249,
@@ -376,8 +367,7 @@
       "2023-02-03": 20,
       "2022-12-15": 68,
       "2022-12-14": 44,
-      "2022-11-10": 20,
-      "2022-07-21": 26
+      "2022-11-10": 20
     }
   },
   {
@@ -386,15 +376,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.registro.una.ac.cr.ico",
     "slug": "portal-registro",
     "status": "up",
-    "uptime": "87.98%",
+    "uptime": "88.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "71.13%",
+    "uptimeMonth": "90.80%",
     "uptimeYear": "84.12%",
-    "time": 2135,
-    "timeDay": 2423,
-    "timeWeek": 2154,
-    "timeMonth": 2085,
+    "time": 2141,
+    "timeDay": 2596,
+    "timeWeek": 2224,
+    "timeMonth": 2107,
     "timeYear": 2175,
     "dailyMinutesDown": {
       "2023-06-23": 1234,
@@ -466,15 +456,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aulavirtual.una.ac.cr.ico",
     "slug": "aula-virtual-institucional",
     "status": "up",
-    "uptime": "99.51%",
+    "uptime": "99.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
-    "time": 2039,
-    "timeDay": 2225,
-    "timeWeek": 1923,
-    "timeMonth": 1827,
+    "time": 2041,
+    "timeDay": 2320,
+    "timeWeek": 1967,
+    "timeMonth": 1863,
     "timeYear": 2114,
     "dailyMinutesDown": {
       "2023-06-01": 20,
@@ -506,8 +496,7 @@
       "2022-08-03": 50,
       "2022-08-02": 25,
       "2022-08-01": 47,
-      "2022-07-24": 22,
-      "2022-07-19": 25
+      "2022-07-24": 22
     }
   },
   {
@@ -521,11 +510,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1590,
-    "timeDay": 1927,
-    "timeWeek": 1551,
-    "timeMonth": 1473,
-    "timeYear": 1581,
+    "time": 1592,
+    "timeDay": 1755,
+    "timeWeek": 1648,
+    "timeMonth": 1495,
+    "timeYear": 1583,
     "dailyMinutesDown": {
       "2023-06-08": 121,
       "2023-06-07": 65,
@@ -535,8 +524,7 @@
       "2022-12-15": 66,
       "2022-12-14": 43,
       "2022-11-10": 18,
-      "2022-08-16": 38,
-      "2022-07-21": 26
+      "2022-08-16": 38
     }
   },
   {
@@ -545,15 +533,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.vidaestudiantil.una.ac.cr.ico",
     "slug": "portal-vicerrectoria-vida-estudiantil",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 1815,
-    "timeDay": 1908,
-    "timeWeek": 1770,
-    "timeMonth": 1705,
+    "time": 1816,
+    "timeDay": 1967,
+    "timeWeek": 1761,
+    "timeMonth": 1720,
     "timeYear": 1822,
     "dailyMinutesDown": {
       "2023-06-08": 121,
@@ -566,8 +554,7 @@
       "2022-12-14": 42,
       "2022-11-11": 20,
       "2022-11-10": 17,
-      "2022-07-23": 531,
-      "2022-07-21": 26
+      "2022-07-23": 531
     }
   },
   {
@@ -582,9 +569,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 2153,
-    "timeDay": 2347,
-    "timeWeek": 2037,
-    "timeMonth": 1979,
+    "timeDay": 2375,
+    "timeWeek": 2111,
+    "timeMonth": 2006,
     "timeYear": 2080,
     "dailyMinutesDown": {
       "2023-06-08": 121,
@@ -599,8 +586,7 @@
       "2022-12-14": 40,
       "2022-11-11": 18,
       "2022-11-10": 15,
-      "2022-08-16": 38,
-      "2022-07-21": 26
+      "2022-08-16": 38
     }
   },
   {
@@ -609,16 +595,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.extension.una.ac.cr.ico",
     "slug": "portal-vicerrectoria-extension",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 1803,
-    "timeDay": 1923,
-    "timeWeek": 1834,
-    "timeMonth": 1782,
-    "timeYear": 1812,
+    "time": 1804,
+    "timeDay": 2067,
+    "timeWeek": 1851,
+    "timeMonth": 1804,
+    "timeYear": 1813,
     "dailyMinutesDown": {
       "2023-06-12": 43,
       "2023-06-08": 250,
@@ -643,11 +629,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 1372,
-    "timeDay": 1752,
-    "timeWeek": 1622,
-    "timeMonth": 1537,
-    "timeYear": 1386,
+    "time": 1377,
+    "timeDay": 1914,
+    "timeWeek": 1643,
+    "timeMonth": 1556,
+    "timeYear": 1390,
     "dailyMinutesDown": {
       "2023-06-12": 43,
       "2023-06-08": 250,
@@ -659,8 +645,7 @@
       "2023-02-12": 260,
       "2023-02-03": 20,
       "2022-12-15": 61,
-      "2022-12-14": 37,
-      "2022-07-21": 26
+      "2022-12-14": 37
     }
   },
   {
@@ -669,15 +654,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.proveeduria.una.ac.cr.ico",
     "slug": "portal-proveeduria",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
-    "time": 1679,
-    "timeDay": 1801,
-    "timeWeek": 1647,
-    "timeMonth": 1605,
+    "uptimeYear": "99.92%",
+    "time": 1678,
+    "timeDay": 1883,
+    "timeWeek": 1666,
+    "timeMonth": 1604,
     "timeYear": 1682,
     "dailyMinutesDown": {
       "2023-06-12": 43,
@@ -687,9 +672,7 @@
       "2023-04-01": 28,
       "2023-02-03": 33,
       "2022-12-15": 59,
-      "2022-12-14": 36,
-      "2022-07-21": 26,
-      "2022-07-19": 31
+      "2022-12-14": 36
     }
   },
   {
@@ -703,11 +686,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1519,
-    "timeDay": 1679,
-    "timeWeek": 1608,
-    "timeMonth": 1523,
-    "timeYear": 1522,
+    "time": 1520,
+    "timeDay": 1980,
+    "timeWeek": 1601,
+    "timeMonth": 1528,
+    "timeYear": 1524,
     "dailyMinutesDown": {
       "2023-06-12": 43,
       "2023-06-08": 122,
@@ -716,9 +699,7 @@
       "2023-04-01": 28,
       "2023-02-03": 20,
       "2022-12-15": 58,
-      "2022-12-14": 34,
-      "2022-07-21": 26,
-      "2022-07-19": 30
+      "2022-12-14": 34
     }
   },
   {
@@ -732,11 +713,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
-    "time": 1370,
-    "timeDay": 1771,
-    "timeWeek": 1591,
-    "timeMonth": 1506,
-    "timeYear": 1520,
+    "time": 1380,
+    "timeDay": 1851,
+    "timeWeek": 1604,
+    "timeMonth": 1521,
+    "timeYear": 1532,
     "dailyMinutesDown": {
       "2023-06-01": 16,
       "2023-05-15": 1002,
@@ -759,11 +740,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 1492,
-    "timeDay": 1675,
-    "timeWeek": 1388,
-    "timeMonth": 1382,
-    "timeYear": 1462,
+    "time": 1493,
+    "timeDay": 1713,
+    "timeWeek": 1487,
+    "timeMonth": 1389,
+    "timeYear": 1463,
     "dailyMinutesDown": {
       "2023-06-08": 122,
       "2023-06-07": 84,
@@ -774,8 +755,7 @@
       "2022-12-15": 56,
       "2022-12-14": 33,
       "2022-11-08": 28,
-      "2022-08-16": 37,
-      "2022-07-21": 26
+      "2022-08-16": 37
     }
   },
   {
@@ -789,11 +769,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1398,
-    "timeDay": 1816,
-    "timeWeek": 1605,
-    "timeMonth": 1496,
-    "timeYear": 1389,
+    "time": 1402,
+    "timeDay": 2315,
+    "timeWeek": 1541,
+    "timeMonth": 1529,
+    "timeYear": 1392,
     "dailyMinutesDown": {
       "2023-06-12": 43,
       "2023-06-08": 122,
@@ -802,8 +782,7 @@
       "2023-02-03": 20,
       "2022-12-15": 55,
       "2022-12-14": 31,
-      "2022-11-08": 28,
-      "2022-07-21": 26
+      "2022-11-08": 28
     }
   },
   {
@@ -818,10 +797,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 1378,
-    "timeDay": 1562,
-    "timeWeek": 1351,
-    "timeMonth": 1321,
-    "timeYear": 1373,
+    "timeDay": 1629,
+    "timeWeek": 1302,
+    "timeMonth": 1312,
+    "timeYear": 1372,
     "dailyMinutesDown": {
       "2023-06-12": 43,
       "2023-06-08": 122,
@@ -832,8 +811,7 @@
       "2023-02-03": 20,
       "2022-12-15": 53,
       "2022-12-14": 30,
-      "2022-11-08": 27,
-      "2022-07-21": 26
+      "2022-11-08": 27
     }
   },
   {
@@ -847,11 +825,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 1363,
-    "timeDay": 1528,
-    "timeWeek": 1371,
-    "timeMonth": 1290,
-    "timeYear": 1373,
+    "time": 1365,
+    "timeDay": 1574,
+    "timeWeek": 1366,
+    "timeMonth": 1311,
+    "timeYear": 1374,
     "dailyMinutesDown": {
       "2023-06-08": 122,
       "2023-06-07": 59,
@@ -860,8 +838,7 @@
       "2023-02-03": 20,
       "2022-12-15": 52,
       "2022-12-14": 28,
-      "2022-11-08": 27,
-      "2022-07-21": 26
+      "2022-11-08": 27
     }
   },
   {
@@ -875,11 +852,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1891,
-    "timeDay": 2430,
-    "timeWeek": 2144,
-    "timeMonth": 2065,
-    "timeYear": 2129,
+    "time": 1904,
+    "timeDay": 2558,
+    "timeWeek": 2192,
+    "timeMonth": 2081,
+    "timeYear": 2145,
     "dailyMinutesDown": {
       "2023-06-08": 122,
       "2023-06-07": 59,
@@ -893,18 +870,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/live.radiocidea.una.ac.cr.ico",
     "slug": "live-cidea",
     "status": "down",
-    "uptime": "67.15%",
+    "uptime": "66.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "56.65%",
-    "time": 1084,
-    "timeDay": 1079,
-    "timeWeek": 943,
-    "timeMonth": 877,
-    "timeYear": 1167,
+    "uptimeYear": "55.01%",
+    "time": 1079,
+    "timeDay": 1116,
+    "timeWeek": 939,
+    "timeMonth": 891,
+    "timeYear": 1158,
     "dailyMinutesDown": {
-      "2023-07-15": 106,
+      "2023-07-21": 83,
+      "2023-07-20": 1440,
+      "2023-07-19": 1440,
+      "2023-07-18": 1440,
+      "2023-07-17": 1440,
+      "2023-07-16": 1440,
+      "2023-07-15": 1440,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
       "2023-07-12": 1440,
