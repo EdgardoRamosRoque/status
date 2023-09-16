@@ -269,8 +269,8 @@
     "slug": "portal-repositorio",
     "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "78.32%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "78.30%",
     "uptimeMonth": "79.63%",
     "uptimeYear": "98.30%",
     "time": 5462,
@@ -279,7 +279,7 @@
     "timeMonth": 7631,
     "timeYear": 5783,
     "dailyMinutesDown": {
-      "2023-09-16": 2,
+      "2023-09-16": 4,
       "2023-09-14": 589,
       "2023-09-13": 125,
       "2023-09-12": 330,
@@ -905,7 +905,7 @@
     "timeMonth": 918,
     "timeYear": 1130,
     "dailyMinutesDown": {
-      "2023-09-16": 63,
+      "2023-09-16": 65,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
