@@ -267,19 +267,19 @@
     "url": "https://www.repositorio.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.repositorio.una.ac.cr.ico",
     "slug": "portal-repositorio",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "94.93%",
-    "uptimeWeek": "88.96%",
-    "uptimeMonth": "79.02%",
-    "uptimeYear": "98.25%",
-    "time": 5521,
+    "uptimeDay": "94.77%",
+    "uptimeWeek": "88.94%",
+    "uptimeMonth": "79.10%",
+    "uptimeYear": "98.26%",
+    "time": 5522,
     "timeDay": 8507,
     "timeWeek": 7260,
     "timeMonth": 7654,
     "timeYear": 5822,
     "dailyMinutesDown": {
-      "2023-09-20": 73,
+      "2023-09-20": 75,
       "2023-09-18": 310,
       "2023-09-17": 58,
       "2023-09-16": 79,
@@ -298,7 +298,7 @@
       "2023-09-02": 499,
       "2023-09-01": 969,
       "2023-08-31": 829,
-      "2023-08-30": 395
+      "2023-08-30": 361
     }
   },
   {
@@ -898,7 +898,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/live.radiocidea.una.ac.cr.ico",
     "slug": "live-cidea",
     "status": "down",
-    "uptime": "58.91%",
+    "uptime": "58.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -909,7 +909,7 @@
     "timeMonth": 917,
     "timeYear": 1130,
     "dailyMinutesDown": {
-      "2023-09-20": 1245,
+      "2023-09-20": 1258,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
