@@ -267,19 +267,19 @@
     "url": "https://www.repositorio.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.repositorio.una.ac.cr.ico",
     "slug": "portal-repositorio",
-    "status": "up",
-    "uptime": "98.92%",
-    "uptimeDay": "78.39%",
-    "uptimeWeek": "88.73%",
-    "uptimeMonth": "80.40%",
+    "status": "down",
+    "uptime": "98.93%",
+    "uptimeDay": "78.22%",
+    "uptimeWeek": "88.84%",
+    "uptimeMonth": "80.48%",
     "uptimeYear": "98.37%",
-    "time": 5602,
+    "time": 5603,
     "timeDay": 10263,
     "timeWeek": 7894,
     "timeMonth": 7767,
     "timeYear": 5894,
     "dailyMinutesDown": {
-      "2023-09-21": 146,
+      "2023-09-21": 148,
       "2023-09-20": 166,
       "2023-09-18": 310,
       "2023-09-17": 58,
@@ -298,7 +298,7 @@
       "2023-09-03": 1440,
       "2023-09-02": 499,
       "2023-09-01": 969,
-      "2023-08-31": 384
+      "2023-08-31": 345
     }
   },
   {
@@ -393,7 +393,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.registro.una.ac.cr.ico",
     "slug": "portal-registro",
     "status": "up",
-    "uptime": "89.45%",
+    "uptime": "89.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -909,7 +909,7 @@
     "timeMonth": 922,
     "timeYear": 1130,
     "dailyMinutesDown": {
-      "2023-09-21": 265,
+      "2023-09-21": 278,
       "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
