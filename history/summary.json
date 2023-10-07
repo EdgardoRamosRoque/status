@@ -14,7 +14,7 @@
     "timeDay": 1969,
     "timeWeek": 1882,
     "timeMonth": 1944,
-    "timeYear": 1844,
+    "timeYear": 1843,
     "dailyMinutesDown": {
       "2023-06-08": 118,
       "2023-06-07": 72,
@@ -42,7 +42,7 @@
     "timeDay": 1969,
     "timeWeek": 1975,
     "timeMonth": 2007,
-    "timeYear": 2106,
+    "timeYear": 2105,
     "dailyMinutesDown": {
       "2023-08-15": 326,
       "2023-08-14": 449,
@@ -74,7 +74,7 @@
     "timeDay": 3109,
     "timeWeek": 3055,
     "timeMonth": 3049,
-    "timeYear": 2811,
+    "timeYear": 2808,
     "dailyMinutesDown": {
       "2023-09-04": 859,
       "2023-09-03": 518,
@@ -101,7 +101,7 @@
     "timeDay": 1917,
     "timeWeek": 1850,
     "timeMonth": 1926,
-    "timeYear": 2108,
+    "timeYear": 2106,
     "dailyMinutesDown": {
       "2023-06-08": 118,
       "2023-06-07": 71,
@@ -128,7 +128,7 @@
     "timeDay": 2558,
     "timeWeek": 2725,
     "timeMonth": 2707,
-    "timeYear": 2365,
+    "timeYear": 2364,
     "dailyMinutesDown": {
       "2023-09-04": 860,
       "2023-09-03": 1192,
@@ -159,7 +159,7 @@
     "timeDay": 1412,
     "timeWeek": 1546,
     "timeMonth": 1535,
-    "timeYear": 1521,
+    "timeYear": 1520,
     "dailyMinutesDown": {
       "2023-09-04": 1348,
       "2023-09-03": 1192,
@@ -191,7 +191,7 @@
     "timeDay": 2334,
     "timeWeek": 2649,
     "timeMonth": 2887,
-    "timeYear": 2808,
+    "timeYear": 2807,
     "dailyMinutesDown": {
       "2023-06-08": 119,
       "2023-06-07": 69,
@@ -220,7 +220,7 @@
     "timeDay": 1671,
     "timeWeek": 1702,
     "timeMonth": 2298,
-    "timeYear": 2515,
+    "timeYear": 2506,
     "dailyMinutesDown": {
       "2023-09-04": 860,
       "2023-09-03": 518,
@@ -248,7 +248,7 @@
     "timeDay": 2277,
     "timeWeek": 2271,
     "timeMonth": 2340,
-    "timeYear": 2398,
+    "timeYear": 2397,
     "dailyMinutesDown": {
       "2023-09-11": 77,
       "2023-09-04": 860,
@@ -266,19 +266,19 @@
     "url": "https://www.repositorio.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.repositorio.una.ac.cr.ico",
     "slug": "portal-repositorio",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "84.47%",
-    "uptimeWeek": "92.94%",
-    "uptimeMonth": "88.06%",
-    "uptimeYear": "98.98%",
-    "time": 5790,
-    "timeDay": 17778,
-    "timeWeek": 9983,
-    "timeMonth": 7299,
-    "timeYear": 6096,
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "84.30%",
+    "uptimeWeek": "92.92%",
+    "uptimeMonth": "88.05%",
+    "uptimeYear": "99.00%",
+    "time": 5797,
+    "timeDay": 16600,
+    "timeWeek": 10007,
+    "timeMonth": 7319,
+    "timeYear": 6105,
     "dailyMinutesDown": {
-      "2023-10-07": 223,
+      "2023-10-07": 226,
       "2023-10-06": 267,
       "2023-10-05": 202,
       "2023-10-02": 19,
@@ -298,8 +298,7 @@
       "2023-09-10": 197,
       "2023-09-09": 639,
       "2023-09-08": 159,
-      "2023-09-07": 96,
-      "2023-09-06": 28
+      "2023-09-07": 19
     }
   },
   {
@@ -317,7 +316,7 @@
     "timeDay": 1489,
     "timeWeek": 1493,
     "timeMonth": 1478,
-    "timeYear": 1501,
+    "timeYear": 1499,
     "dailyMinutesDown": {
       "2023-06-09": 459,
       "2023-06-08": 561,
@@ -344,7 +343,7 @@
     "timeDay": 1541,
     "timeWeek": 1567,
     "timeMonth": 1633,
-    "timeYear": 3336,
+    "timeYear": 3340,
     "dailyMinutesDown": {
       "2023-06-08": 217,
       "2023-06-07": 66,
@@ -367,11 +366,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.78%",
-    "time": 2372,
+    "time": 2011,
     "timeDay": 1991,
     "timeWeek": 2057,
     "timeMonth": 2092,
-    "timeYear": 1970,
+    "timeYear": 1967,
     "dailyMinutesDown": {
       "2023-09-11": 75,
       "2023-08-15": 97,
@@ -403,7 +402,7 @@
     "timeDay": 2315,
     "timeWeek": 2361,
     "timeMonth": 2439,
-    "timeYear": 2207,
+    "timeYear": 2205,
     "dailyMinutesDown": {
       "2023-06-23": 1234,
       "2023-06-22": 1440,
@@ -483,7 +482,7 @@
     "timeDay": 1650,
     "timeWeek": 1688,
     "timeMonth": 1772,
-    "timeYear": 2108,
+    "timeYear": 2107,
     "dailyMinutesDown": {
       "2023-10-07": 111,
       "2023-10-02": 32,
@@ -524,7 +523,7 @@
     "timeDay": 1484,
     "timeWeek": 1501,
     "timeMonth": 1553,
-    "timeYear": 1592,
+    "timeYear": 1591,
     "dailyMinutesDown": {
       "2023-09-04": 1362,
       "2023-09-03": 517,
@@ -615,7 +614,7 @@
     "timeDay": 2036,
     "timeWeek": 1975,
     "timeMonth": 1931,
-    "timeYear": 1844,
+    "timeYear": 1842,
     "dailyMinutesDown": {
       "2023-09-04": 1291,
       "2023-09-03": 1191,
@@ -679,7 +678,7 @@
     "timeDay": 1700,
     "timeWeek": 1795,
     "timeMonth": 1812,
-    "timeYear": 1711,
+    "timeYear": 1710,
     "dailyMinutesDown": {
       "2023-09-04": 886,
       "2023-09-03": 531,
@@ -708,7 +707,7 @@
     "timeDay": 1482,
     "timeWeek": 1594,
     "timeMonth": 1612,
-    "timeYear": 1559,
+    "timeYear": 1558,
     "dailyMinutesDown": {
       "2023-09-04": 1349,
       "2023-09-03": 277,
@@ -858,7 +857,7 @@
     "timeDay": 1349,
     "timeWeek": 1375,
     "timeMonth": 1352,
-    "timeYear": 1379,
+    "timeYear": 1378,
     "dailyMinutesDown": {
       "2023-09-04": 1375,
       "2023-09-03": 1190,
@@ -887,7 +886,7 @@
     "timeDay": 1238,
     "timeWeek": 1382,
     "timeMonth": 1322,
-    "timeYear": 2094,
+    "timeYear": 2092,
     "dailyMinutesDown": {
       "2023-09-18": 16,
       "2023-06-08": 122,
@@ -902,7 +901,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/live.radiocidea.una.ac.cr.ico",
     "slug": "live-cidea",
     "status": "down",
-    "uptime": "57.14%",
+    "uptime": "57.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -913,7 +912,7 @@
     "timeMonth": 930,
     "timeYear": 1150,
     "dailyMinutesDown": {
-      "2023-10-07": 1390,
+      "2023-10-07": 1404,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
