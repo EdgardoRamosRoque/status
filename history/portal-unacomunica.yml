@@ -1,7 +1,7 @@
 url: https://www.unacomunica.una.ac.cr/
-status: up
-code: 200
-responseTime: 3161
-lastUpdated: 2023-10-30T23:06:46.004Z
+status: down
+code: 500
+responseTime: 1295
+lastUpdated: 2023-10-31T20:54:11.360Z
 startTime: 2022-03-16T16:14:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
