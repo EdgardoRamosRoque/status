@@ -1,7 +1,7 @@
 url: https://www.rectoria.una.ac.cr/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-03T11:18:36.405Z
+status: up
+code: 200
+responseTime: 1115
+lastUpdated: 2023-12-03T11:42:22.127Z
 startTime: 2022-03-16T16:15:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
