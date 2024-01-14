@@ -17,8 +17,6 @@ sites:
     url: https://www.transparencia.una.ac.cr/    
   - name: Portal Preguntas Frecuentes
     url: https://www.preguntasfrecuentes.una.ac.cr/
-  - name: Portal COVID19
-    url: https://www.covid19.una.ac.cr/
   - name: Portal Documentos
     url: https://www.documentos.una.ac.cr/
   - name: Portal Repositorio
@@ -65,8 +63,6 @@ sites:
     url: https://www.cide.una.ac.cr/
   - name: Portal CIDEA
     url: http://www.cidea.una.ac.cr/
-  - name: Live CIDEA
-    url: https://live.radiocidea.una.ac.cr/
     
 assignees:
   - edgardoramosroque
