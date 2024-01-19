@@ -244,19 +244,19 @@
     "url": "https://www.repositorio.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.repositorio.una.ac.cr.ico",
     "slug": "portal-repositorio",
-    "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "82.02%",
-    "uptimeWeek": "97.43%",
+    "status": "down",
+    "uptime": "99.22%",
+    "uptimeDay": "81.96%",
+    "uptimeWeek": "97.42%",
     "uptimeMonth": "99.35%",
-    "uptimeYear": "98.55%",
-    "time": 6096,
+    "uptimeYear": "98.56%",
+    "time": 6099,
     "timeDay": 15976,
     "timeWeek": 11038,
     "timeMonth": 6971,
     "timeYear": 6313,
     "dailyMinutesDown": {
-      "2024-01-19": 259,
+      "2024-01-19": 260,
       "2024-01-08": 24,
       "2023-12-04": 895,
       "2023-12-03": 621,
@@ -280,7 +280,7 @@
       "2023-09-14": 589,
       "2023-09-13": 125,
       "2023-09-12": 330,
-      "2023-09-11": 201
+      "2023-09-11": 154
     }
   },
   {
