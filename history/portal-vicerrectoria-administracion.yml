@@ -1,7 +1,7 @@
 url: https://www.vadm.una.ac.cr/
-status: up
-code: 200
-responseTime: 1917
-lastUpdated: 2024-02-20T23:07:16.091Z
+status: down
+code: 500
+responseTime: 1574
+lastUpdated: 2024-02-20T23:45:31.802Z
 startTime: 2022-03-16T16:15:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
