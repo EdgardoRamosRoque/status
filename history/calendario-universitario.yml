@@ -1,7 +1,7 @@
 url: https://www.calendario.una.ac.cr/
-status: up
-code: 200
-responseTime: 2503
-lastUpdated: 2024-04-15T23:06:55.789Z
+status: down
+code: 500
+responseTime: 916
+lastUpdated: 2024-04-16T06:57:33.907Z
 startTime: 2022-03-14T17:53:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
