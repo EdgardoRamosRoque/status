@@ -1,7 +1,7 @@
 url: https://www.preguntasfrecuentes.una.ac.cr/
-status: up
-code: 200
-responseTime: 2359
-lastUpdated: 2024-04-15T23:07:05.810Z
+status: down
+code: 500
+responseTime: 894
+lastUpdated: 2024-04-16T06:57:46.866Z
 startTime: 2022-03-14T17:54:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
