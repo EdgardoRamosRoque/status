@@ -167,7 +167,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.transparencia.una.ac.cr.ico",
     "slug": "portal-transparencia",
     "status": "up",
-    "uptime": "99.27%",
+    "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.65%",
@@ -271,10 +271,10 @@
     "url": "https://www.repositorio.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.repositorio.una.ac.cr.ico",
     "slug": "portal-repositorio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "83.67%",
-    "uptimeWeek": "97.67%",
+    "uptimeDay": "83.55%",
+    "uptimeWeek": "97.65%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "98.37%",
     "time": 6016,
@@ -283,6 +283,7 @@
     "timeMonth": 5861,
     "timeYear": 6403,
     "dailyMinutesDown": {
+      "2024-04-25": 2,
       "2024-04-24": 235,
       "2024-03-23": 191,
       "2024-03-04": 400,
@@ -312,7 +313,7 @@
       "2023-09-17": 58,
       "2023-09-16": 79,
       "2023-09-14": 589,
-      "2023-09-13": 65
+      "2023-09-13": 47
     }
   },
   {
@@ -323,12 +324,12 @@
     "status": "up",
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.63%",
     "time": 1628,
     "timeDay": 1642,
-    "timeWeek": 1838,
+    "timeWeek": 1849,
     "timeMonth": 1827,
     "timeYear": 1666,
     "dailyMinutesDown": {
@@ -356,7 +357,7 @@
     "uptime": "98.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "76.08%",
+    "uptimeMonth": "77.32%",
     "uptimeYear": "97.31%",
     "time": 2952,
     "timeDay": 1476,
@@ -523,8 +524,7 @@
       "2023-04-30": 1440,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
-      "2023-04-27": 1440,
-      "2023-04-26": 105
+      "2023-04-27": 1440
     }
   },
   {
