@@ -13,8 +13,6 @@ sites:
     url: https://www.directorio.una.ac.cr/
   - name: Portal UNACOMUNICA
     url: https://www.unacomunica.una.ac.cr/    
-  - name: Portal Ambientico
-    url: https://www.ambientico.una.ac.cr/        
   - name: Portal Transparencia
     url: https://www.transparencia.una.ac.cr/    
   - name: Portal Preguntas Frecuentes
@@ -65,6 +63,8 @@ sites:
     url: https://www.cide.una.ac.cr/
   - name: Portal CIDEA
     url: http://www.cidea.una.ac.cr/
+  - name: Portal Ambientico
+    url: https://www.ambientico.una.ac.cr/
     
 assignees:
   - edgardoramosroque
