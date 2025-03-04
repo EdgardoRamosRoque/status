@@ -63,8 +63,6 @@ sites:
     url: https://www.cide.una.ac.cr/
   - name: Portal CIDEA
     url: http://www.cidea.una.ac.cr/
-  - name: Portal Ambientico
-    url: https://www.ambientico.una.ac.cr/
     
 assignees:
   - edgardoramosroque
