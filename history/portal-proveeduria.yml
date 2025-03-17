@@ -1,7 +1,7 @@
 url: https://www.proveeduria.una.ac.cr/
-status: up
-code: 200
-responseTime: 1078
-lastUpdated: 2025-03-16T23:17:16.475Z
+status: down
+code: 500
+responseTime: 1219
+lastUpdated: 2025-03-17T11:51:39.714Z
 startTime: 2022-03-16T16:15:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
