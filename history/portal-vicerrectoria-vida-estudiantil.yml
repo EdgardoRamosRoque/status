@@ -1,7 +1,7 @@
 url: https://www.vidaestudiantil.una.ac.cr/
-status: up
-code: 200
-responseTime: 795
-lastUpdated: 2025-03-26T23:17:27.374Z
+status: down
+code: 500
+responseTime: 565
+lastUpdated: 2025-03-27T16:14:09.234Z
 startTime: 2022-03-16T16:15:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
