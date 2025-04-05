@@ -1014,17 +1014,17 @@
     "url": "https://www.revistas.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.revistas.una.ac.cr.ico",
     "slug": "portal-revistas-universitarias",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "57.54%",
-    "uptimeWeek": "67.73%",
-    "uptimeMonth": "88.68%",
+    "uptimeDay": "57.51%",
+    "uptimeWeek": "67.80%",
+    "uptimeMonth": "88.77%",
     "uptimeYear": "99.06%",
-    "time": 4819,
-    "timeDay": 8711,
-    "timeWeek": 10190,
-    "timeMonth": 7541,
-    "timeYear": 5780,
+    "time": 4817,
+    "timeDay": 8494,
+    "timeWeek": 10119,
+    "timeMonth": 7520,
+    "timeYear": 5771,
     "dailyMinutesDown": {
       "2025-04-05": 423,
       "2025-04-04": 730,
@@ -1040,8 +1040,7 @@
       "2025-03-24": 17,
       "2025-03-23": 252,
       "2025-03-22": 108,
-      "2025-03-21": 36,
-      "2025-03-20": 42
+      "2025-03-21": 36
     }
   },
   {
