@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.una.ac.cr.ico",
     "slug": "portal-una",
     "status": "up",
-    "uptime": "76.40%",
+    "uptime": "76.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
@@ -1016,17 +1016,17 @@
     "slug": "portal-revistas-universitarias",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "96.99%",
-    "uptimeWeek": "95.07%",
-    "uptimeMonth": "89.88%",
-    "uptimeYear": "99.16%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "95.44%",
+    "uptimeMonth": "89.85%",
+    "uptimeYear": "99.15%",
     "time": 5358,
     "timeDay": 1448,
-    "timeWeek": 1503,
-    "timeMonth": 7581,
+    "timeWeek": 1357,
+    "timeMonth": 7642,
     "timeYear": 6041,
     "dailyMinutesDown": {
-      "2025-04-15": 44,
+      "2025-04-15": 38,
       "2025-04-14": 42,
       "2025-04-11": 54,
       "2025-04-10": 161,
@@ -1039,7 +1039,7 @@
       "2025-04-03": 609,
       "2025-04-02": 135,
       "2025-04-01": 242,
-      "2025-03-31": 19
+      "2025-03-31": 41
     }
   },
   {
@@ -1247,7 +1247,7 @@
     "slug": "portal-vicerrectoria-docencia",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "79.03%",
+    "uptimeDay": "80.21%",
     "uptimeWeek": "97.00%",
     "uptimeMonth": "99.25%",
     "uptimeYear": "99.90%",
@@ -1321,10 +1321,10 @@
     "url": "http://www.tierraymar.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tierraymar.una.ac.cr.ico",
     "slug": "portal-facultad-de-tierra-y-mar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 1384,
@@ -1333,6 +1333,7 @@
     "timeMonth": 902,
     "timeYear": 1244,
     "dailyMinutesDown": {
+      "2025-04-15": 1,
       "2024-05-04": 942,
       "2024-05-03": 51
     }
