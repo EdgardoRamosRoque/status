@@ -1,7 +1,7 @@
 url: https://www.revistas.una.ac.cr/
-status: up
-code: 200
-responseTime: 1474
-lastUpdated: 2025-04-21T11:37:15.403Z
+status: down
+code: 500
+responseTime: 401
+lastUpdated: 2025-04-21T14:55:03.888Z
 startTime: 2022-03-16T16:15:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
