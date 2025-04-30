@@ -1007,19 +1007,19 @@
     "url": "https://www.revistas.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.revistas.una.ac.cr.ico",
     "slug": "portal-revistas-universitarias",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "86.22%",
-    "uptimeWeek": "96.88%",
-    "uptimeMonth": "89.98%",
-    "uptimeYear": "99.16%",
-    "time": 4915,
-    "timeDay": 950,
-    "timeWeek": 1002,
-    "timeMonth": 6862,
-    "timeYear": 5541,
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "86.17%",
+    "uptimeWeek": "96.87%",
+    "uptimeMonth": "90.15%",
+    "uptimeYear": "99.18%",
+    "time": 4914,
+    "timeDay": 926,
+    "timeWeek": 994,
+    "timeMonth": 6847,
+    "timeYear": 5535,
     "dailyMinutesDown": {
-      "2025-04-30": 72,
+      "2025-04-30": 73,
       "2025-04-29": 145,
       "2025-04-28": 22,
       "2025-04-26": 19,
@@ -1041,7 +1041,7 @@
       "2025-04-06": 844,
       "2025-04-05": 813,
       "2025-04-04": 730,
-      "2025-04-03": 361
+      "2025-04-03": 286
     }
   },
   {
@@ -1104,7 +1104,7 @@
     "timeDay": 1003,
     "timeWeek": 973,
     "timeMonth": 956,
-    "timeYear": 1786,
+    "timeYear": 1782,
     "dailyMinutesDown": {
       "2025-04-23": 89,
       "2024-05-30": 189,
@@ -1127,7 +1127,7 @@
     "timeDay": 1246,
     "timeWeek": 1092,
     "timeMonth": 1962,
-    "timeYear": 2216,
+    "timeYear": 2218,
     "dailyMinutesDown": {
       "2025-04-23": 89,
       "2025-04-04": 45,
