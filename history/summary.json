@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.una.ac.cr.ico",
     "slug": "portal-una",
     "status": "up",
-    "uptime": "77.60%",
+    "uptime": "77.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.14%",
-    "uptimeYear": "29.34%",
+    "uptimeYear": "29.36%",
     "time": 1672,
     "timeDay": 1517,
     "timeWeek": 1063,
@@ -278,8 +278,7 @@
       "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
-      "2024-06-22": 1440,
-      "2024-06-21": 1440
+      "2024-06-22": 1440
     }
   },
   {
@@ -292,7 +291,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.14%",
-    "uptimeYear": "29.34%",
+    "uptimeYear": "29.36%",
     "time": 1884,
     "timeDay": 1603,
     "timeWeek": 1096,
@@ -561,8 +560,7 @@
       "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
-      "2024-06-22": 1440,
-      "2024-06-21": 1440
+      "2024-06-22": 1440
     }
   },
   {
@@ -575,7 +573,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.41%",
-    "uptimeYear": "29.42%",
+    "uptimeYear": "29.43%",
     "time": 2400,
     "timeDay": 854,
     "timeWeek": 693,
@@ -842,8 +840,7 @@
       "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
-      "2024-06-22": 1440,
-      "2024-06-21": 1440
+      "2024-06-22": 1440
     }
   },
   {
@@ -1003,9 +1000,9 @@
     "slug": "portal-revistas-universitarias",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "96.48%",
-    "uptimeWeek": "97.26%",
-    "uptimeMonth": "97.22%",
+    "uptimeDay": "97.29%",
+    "uptimeWeek": "97.38%",
+    "uptimeMonth": "97.25%",
     "uptimeYear": "99.32%",
     "time": 4448,
     "timeDay": 992,
@@ -1013,7 +1010,7 @@
     "timeMonth": 1160,
     "timeYear": 4655,
     "dailyMinutesDown": {
-      "2025-06-20": 51,
+      "2025-06-20": 39,
       "2025-06-19": 58,
       "2025-06-17": 61,
       "2025-06-16": 42,
@@ -1057,7 +1054,7 @@
       "2025-04-09": 143,
       "2025-04-08": 82,
       "2025-04-07": 515,
-      "2025-04-06": 331
+      "2025-04-06": 347
     }
   },
   {
@@ -1140,18 +1137,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aulavirtual.una.ac.cr.ico",
     "slug": "aula-virtual-institucional",
     "status": "down",
-    "uptime": "95.30%",
+    "uptime": "95.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "85.87%",
+    "uptimeYear": "85.86%",
     "time": 2212,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1656,
     "dailyMinutesDown": {
-      "2025-06-20": 1423,
+      "2025-06-21": 78,
+      "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
@@ -1269,7 +1267,7 @@
     "uptime": "99.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.14%",
+    "uptimeMonth": "81.35%",
     "uptimeYear": "98.35%",
     "time": 2058,
     "timeDay": 1106,
