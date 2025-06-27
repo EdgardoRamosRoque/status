@@ -957,9 +957,9 @@
     "url": "https://www.repositorio.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.repositorio.una.ac.cr.ico",
     "slug": "portal-repositorio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.88%",
@@ -969,6 +969,7 @@
     "timeMonth": 1552,
     "timeYear": 2802,
     "dailyMinutesDown": {
+      "2025-06-27": 0,
       "2025-06-09": 19,
       "2025-05-25": 256,
       "2025-04-23": 91,
@@ -985,9 +986,9 @@
     "slug": "portal-revistas-universitarias",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "97.64%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "97.74%",
+    "uptimeDay": "98.06%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "97.75%",
     "uptimeYear": "99.34%",
     "time": 4411,
     "timeDay": 1137,
@@ -995,7 +996,7 @@
     "timeMonth": 1153,
     "timeYear": 4561,
     "dailyMinutesDown": {
-      "2025-06-27": 34,
+      "2025-06-27": 28,
       "2025-06-26": 24,
       "2025-06-25": 21,
       "2025-06-20": 39,
@@ -1042,7 +1043,7 @@
       "2025-04-09": 143,
       "2025-04-08": 82,
       "2025-04-07": 515,
-      "2025-04-06": 169
+      "2025-04-06": 185
     }
   },
   {
@@ -1137,7 +1138,7 @@
     "timeMonth": 0,
     "timeYear": 1656,
     "dailyMinutesDown": {
-      "2025-06-27": 1072,
+      "2025-06-27": 1079,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
