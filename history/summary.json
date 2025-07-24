@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "38.38%",
+    "uptimeYear": "38.40%",
     "time": 1544,
     "timeDay": 1037,
     "timeWeek": 860,
@@ -245,8 +245,7 @@
       "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
-      "2024-07-25": 1440,
-      "2024-07-24": 1440
+      "2024-07-25": 1440
     }
   },
   {
@@ -259,7 +258,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "38.38%",
+    "uptimeYear": "38.40%",
     "time": 1772,
     "timeDay": 1118,
     "timeWeek": 1020,
@@ -495,8 +494,7 @@
       "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
-      "2024-07-25": 1440,
-      "2024-07-24": 1440
+      "2024-07-25": 1440
     }
   },
   {
@@ -509,7 +507,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "38.46%",
+    "uptimeYear": "38.48%",
     "time": 2114,
     "timeDay": 582,
     "timeWeek": 601,
@@ -743,8 +741,7 @@
       "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
-      "2024-07-25": 1440,
-      "2024-07-24": 1440
+      "2024-07-25": 1440
     }
   },
   {
@@ -1039,17 +1036,18 @@
     "slug": "portal-registro",
     "status": "down",
     "uptime": "95.15%",
-    "uptimeDay": "92.90%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.86%",
+    "uptimeDay": "86.93%",
+    "uptimeWeek": "98.13%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.84%",
     "time": 1725,
     "timeDay": 2425,
     "timeWeek": 1686,
     "timeMonth": 1267,
     "timeYear": 1128,
     "dailyMinutesDown": {
-      "2025-07-23": 102,
+      "2025-07-24": 84,
+      "2025-07-23": 103,
       "2025-06-01": 307,
       "2025-05-25": 255,
       "2025-04-23": 89
@@ -1061,18 +1059,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aulavirtual.una.ac.cr.ico",
     "slug": "aula-virtual-institucional",
     "status": "down",
-    "uptime": "92.74%",
+    "uptime": "92.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "76.83%",
+    "uptimeYear": "76.81%",
     "time": 2274,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1656,
     "dailyMinutesDown": {
-      "2025-07-23": 1438,
+      "2025-07-24": 84,
+      "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
