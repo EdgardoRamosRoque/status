@@ -1,7 +1,7 @@
 url: https://www.registro.una.ac.cr/
-status: up
-code: 200
-responseTime: 1131
-lastUpdated: 2025-07-24T04:47:37.928Z
+status: down
+code: 500
+responseTime: 495
+lastUpdated: 2025-07-24T05:13:30.734Z
 startTime: 2022-03-16T16:15:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
