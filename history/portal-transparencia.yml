@@ -1,7 +1,7 @@
 url: https://www.transparencia.una.ac.cr/
-status: up
-code: 200
-responseTime: 768
-lastUpdated: 2025-07-25T23:19:43.834Z
+status: down
+code: 500
+responseTime: 1061
+lastUpdated: 2025-07-26T19:33:32.156Z
 startTime: 2022-03-16T16:15:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
