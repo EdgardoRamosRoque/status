@@ -1,7 +1,7 @@
 url: https://www.cienciassociales.una.ac.cr/
-status: up
-code: 200
-responseTime: 825
-lastUpdated: 2025-07-25T23:20:02.241Z
+status: down
+code: 500
+responseTime: 559
+lastUpdated: 2025-07-26T19:34:16.692Z
 startTime: 2022-03-16T16:16:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
