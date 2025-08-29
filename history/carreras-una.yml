@@ -1,7 +1,7 @@
 url: https://www.carreras.una.ac.cr/
-status: up
-code: 200
-responseTime: 1081
-lastUpdated: 2025-08-28T23:17:14.247Z
+status: down
+code: 500
+responseTime: 446
+lastUpdated: 2025-08-29T19:33:28.379Z
 startTime: 2022-03-16T16:14:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
