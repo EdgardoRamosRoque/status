@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.una.ac.cr.ico",
     "slug": "portal-una",
     "status": "up",
-    "uptime": "78.97%",
+    "uptime": "78.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "50.91%",
+    "uptimeYear": "50.93%",
     "time": 1533,
     "timeDay": 0,
     "timeWeek": 851,
@@ -205,8 +205,7 @@
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
-      "2024-09-09": 1440,
-      "2024-09-08": 1440
+      "2024-09-09": 1440
     }
   },
   {
@@ -219,7 +218,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "50.96%",
+    "uptimeYear": "50.98%",
     "time": 1725,
     "timeDay": 0,
     "timeWeek": 974,
@@ -412,8 +411,7 @@
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
-      "2024-09-09": 1440,
-      "2024-09-08": 1440
+      "2024-09-09": 1440
     }
   },
   {
@@ -426,7 +424,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "51.04%",
+    "uptimeYear": "51.06%",
     "time": 2063,
     "timeDay": 0,
     "timeWeek": 528,
@@ -617,8 +615,7 @@
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
-      "2024-09-09": 1440,
-      "2024-09-08": 1440
+      "2024-09-09": 1440
     }
   },
   {
@@ -744,12 +741,12 @@
     "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.33%",
+    "uptimeMonth": "98.36%",
     "uptimeYear": "99.44%",
     "time": 1940,
     "timeDay": 0,
     "timeWeek": 1180,
-    "timeMonth": 1297,
+    "timeMonth": 1311,
     "timeYear": 1567,
     "dailyMinutesDown": {
       "2025-08-27": 16,
@@ -809,7 +806,7 @@
     "uptimeYear": "99.41%",
     "time": 3381,
     "timeDay": 962,
-    "timeWeek": 996,
+    "timeWeek": 1002,
     "timeMonth": 1123,
     "timeYear": 3349,
     "dailyMinutesDown": {
@@ -952,7 +949,7 @@
     "status": "up",
     "uptime": "95.16%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.12%",
+    "uptimeWeek": "98.19%",
     "uptimeMonth": "95.42%",
     "uptimeYear": "99.29%",
     "time": 1724,
@@ -981,18 +978,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aulavirtual.una.ac.cr.ico",
     "slug": "aula-virtual-institucional",
     "status": "down",
-    "uptime": "89.39%",
+    "uptime": "89.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.23%",
+    "uptimeYear": "64.21%",
     "time": 2187,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1656,
     "dailyMinutesDown": {
-      "2025-09-07": 1407,
+      "2025-09-08": 75,
+      "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
