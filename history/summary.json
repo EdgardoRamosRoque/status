@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "55.85%",
+    "uptimeYear": "55.86%",
     "time": 1466,
     "timeDay": 999,
     "timeWeek": 998,
@@ -187,8 +187,7 @@
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
-      "2024-09-27": 1440,
-      "2024-09-26": 1440
+      "2024-09-27": 1440
     }
   },
   {
@@ -197,11 +196,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.carreras.una.ac.cr.ico",
     "slug": "carreras-una",
     "status": "up",
-    "uptime": "78.98%",
+    "uptime": "78.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "55.90%",
+    "uptimeYear": "55.91%",
     "time": 1668,
     "timeDay": 1089,
     "timeWeek": 996,
@@ -376,8 +375,7 @@
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
-      "2024-09-27": 1440,
-      "2024-09-26": 1440
+      "2024-09-27": 1440
     }
   },
   {
@@ -390,7 +388,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "55.98%",
+    "uptimeYear": "55.99%",
     "time": 1942,
     "timeDay": 600,
     "timeWeek": 636,
@@ -563,8 +561,7 @@
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
-      "2024-09-27": 1440,
-      "2024-09-26": 1440
+      "2024-09-27": 1440
     }
   },
   {
@@ -749,9 +746,9 @@
     "slug": "portal-revistas-universitarias",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "96.38%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "98.09%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "98.10%",
     "uptimeYear": "99.42%",
     "time": 3159,
     "timeDay": 1205,
@@ -759,7 +756,7 @@
     "timeMonth": 1096,
     "timeYear": 3128,
     "dailyMinutesDown": {
-      "2025-09-25": 52,
+      "2025-09-25": 46,
       "2025-09-23": 29,
       "2025-09-20": 39,
       "2025-09-17": 21,
@@ -816,7 +813,7 @@
       "2025-07-13": 77,
       "2025-07-12": 71,
       "2025-07-11": 24,
-      "2025-07-09": 51
+      "2025-07-09": 86
     }
   },
   {
@@ -828,7 +825,7 @@
     "uptime": "98.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.07%",
+    "uptimeMonth": "91.24%",
     "uptimeYear": "98.77%",
     "time": 1115,
     "timeDay": 826,
@@ -928,14 +925,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.30%",
+    "uptimeYear": "59.28%",
     "time": 2200,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1656,
     "dailyMinutesDown": {
-      "2025-09-25": 1437,
+      "2025-09-26": 72,
+      "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
