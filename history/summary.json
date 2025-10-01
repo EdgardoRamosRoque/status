@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "57.21%",
+    "uptimeYear": "57.23%",
     "time": 1450,
     "timeDay": 705,
     "timeWeek": 904,
-    "timeMonth": 945,
+    "timeMonth": 952,
     "timeYear": 1159,
     "dailyMinutesDown": {
       "2025-09-02": 18,
@@ -182,8 +182,7 @@
       "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
-      "2024-10-02": 1440,
-      "2024-10-01": 1440
+      "2024-10-02": 1440
     }
   },
   {
@@ -196,11 +195,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "57.27%",
+    "uptimeYear": "57.28%",
     "time": 1651,
     "timeDay": 768,
     "timeWeek": 969,
-    "timeMonth": 1026,
+    "timeMonth": 1034,
     "timeYear": 1164,
     "dailyMinutesDown": {
       "2025-08-27": 19,
@@ -366,8 +365,7 @@
       "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
-      "2024-10-02": 1440,
-      "2024-10-01": 1440
+      "2024-10-02": 1440
     }
   },
   {
@@ -376,15 +374,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.calendario.una.ac.cr.ico",
     "slug": "calendario-universitario",
     "status": "up",
-    "uptime": "79.04%",
+    "uptime": "79.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "57.34%",
+    "uptimeYear": "57.36%",
     "time": 1907,
     "timeDay": 423,
     "timeWeek": 583,
-    "timeMonth": 591,
+    "timeMonth": 598,
     "timeYear": 772,
     "dailyMinutesDown": {
       "2025-08-27": 18,
@@ -548,8 +546,7 @@
       "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
-      "2024-10-02": 1440,
-      "2024-10-01": 1440
+      "2024-10-02": 1440
     }
   },
   {
@@ -566,7 +563,7 @@
     "time": 1479,
     "timeDay": 751,
     "timeWeek": 1025,
-    "timeMonth": 982,
+    "timeMonth": 989,
     "timeYear": 1167,
     "dailyMinutesDown": {
       "2025-08-27": 18,
@@ -593,7 +590,7 @@
     "time": 2791,
     "timeDay": 1747,
     "timeWeek": 2303,
-    "timeMonth": 2032,
+    "timeMonth": 2044,
     "timeYear": 1963,
     "dailyMinutesDown": {
       "2025-08-27": 18,
@@ -621,7 +618,7 @@
     "time": 1269,
     "timeDay": 827,
     "timeWeek": 833,
-    "timeMonth": 847,
+    "timeMonth": 856,
     "timeYear": 1001,
     "dailyMinutesDown": {
       "2025-08-27": 17,
@@ -644,12 +641,12 @@
     "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.47%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 1890,
     "timeDay": 972,
     "timeWeek": 1178,
-    "timeMonth": 1204,
+    "timeMonth": 1207,
     "timeYear": 1275,
     "dailyMinutesDown": {
       "2025-08-31": 233,
@@ -711,7 +708,7 @@
     "time": 3328,
     "timeDay": 1143,
     "timeWeek": 1448,
-    "timeMonth": 1781,
+    "timeMonth": 1802,
     "timeYear": 2335,
     "dailyMinutesDown": {
       "2025-08-27": 33,
@@ -732,19 +729,20 @@
     "url": "https://www.revistas.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.revistas.una.ac.cr.ico",
     "slug": "portal-revistas-universitarias",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "91.72%",
-    "uptimeWeek": "96.58%",
-    "uptimeMonth": "97.93%",
+    "uptimeDay": "92.17%",
+    "uptimeWeek": "96.64%",
+    "uptimeMonth": "97.94%",
     "uptimeYear": "99.42%",
     "time": 3117,
-    "timeDay": 1416,
-    "timeWeek": 1364,
+    "timeDay": 1352,
+    "timeWeek": 1351,
     "timeMonth": 1119,
-    "timeYear": 3069,
+    "timeYear": 3068,
     "dailyMinutesDown": {
-      "2025-09-30": 119,
+      "2025-10-01": 1,
+      "2025-09-30": 112,
       "2025-09-29": 48,
       "2025-09-28": 54,
       "2025-09-27": 76,
@@ -818,7 +816,7 @@
     "time": 1106,
     "timeDay": 630,
     "timeWeek": 830,
-    "timeMonth": 753,
+    "timeMonth": 757,
     "timeYear": 798,
     "dailyMinutesDown": {
       "2025-09-04": 21,
@@ -852,7 +850,7 @@
     "time": 1470,
     "timeDay": 776,
     "timeWeek": 902,
-    "timeMonth": 911,
+    "timeMonth": 915,
     "timeYear": 1034,
     "dailyMinutesDown": {
       "2025-08-27": 39,
@@ -881,7 +879,7 @@
     "uptime": "95.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.07%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "99.29%",
     "time": 1663,
     "timeDay": 819,
@@ -912,15 +910,16 @@
     "uptime": "87.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "57.93%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "57.92%",
     "time": 2214,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1656,
     "dailyMinutesDown": {
-      "2025-09-30": 1418,
+      "2025-10-01": 46,
+      "2025-09-30": 1440,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -1093,7 +1092,7 @@
     "time": 1318,
     "timeDay": 833,
     "timeWeek": 946,
-    "timeMonth": 930,
+    "timeMonth": 934,
     "timeYear": 959,
     "dailyMinutesDown": {
       "2025-08-16": 47,
@@ -1115,12 +1114,12 @@
     "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.25%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
     "time": 1314,
     "timeDay": 661,
     "timeWeek": 848,
-    "timeMonth": 823,
+    "timeMonth": 825,
     "timeYear": 960,
     "dailyMinutesDown": {
       "2025-08-31": 310,
@@ -1151,7 +1150,7 @@
     "time": 1854,
     "timeDay": 968,
     "timeWeek": 1072,
-    "timeMonth": 1072,
+    "timeMonth": 1077,
     "timeYear": 1269,
     "dailyMinutesDown": {
       "2025-08-27": 32,
@@ -1186,7 +1185,7 @@
     "time": 1325,
     "timeDay": 783,
     "timeWeek": 884,
-    "timeMonth": 891,
+    "timeMonth": 895,
     "timeYear": 907,
     "dailyMinutesDown": {
       "2025-08-16": 46,
@@ -1214,7 +1213,7 @@
     "time": 1215,
     "timeDay": 698,
     "timeWeek": 793,
-    "timeMonth": 789,
+    "timeMonth": 793,
     "timeYear": 803,
     "dailyMinutesDown": {
       "2025-08-16": 45,
@@ -1245,7 +1244,7 @@
     "time": 1489,
     "timeDay": 778,
     "timeWeek": 953,
-    "timeMonth": 917,
+    "timeMonth": 922,
     "timeYear": 906,
     "dailyMinutesDown": {
       "2025-08-16": 45,
@@ -1272,7 +1271,7 @@
     "time": 1249,
     "timeDay": 759,
     "timeWeek": 862,
-    "timeMonth": 890,
+    "timeMonth": 887,
     "timeYear": 880,
     "dailyMinutesDown": {
       "2025-08-21": 45,
@@ -1300,7 +1299,7 @@
     "time": 1189,
     "timeDay": 679,
     "timeWeek": 833,
-    "timeMonth": 833,
+    "timeMonth": 839,
     "timeYear": 912,
     "dailyMinutesDown": {
       "2025-08-27": 18,
@@ -1333,7 +1332,7 @@
     "time": 1207,
     "timeDay": 753,
     "timeWeek": 871,
-    "timeMonth": 856,
+    "timeMonth": 861,
     "timeYear": 958,
     "dailyMinutesDown": {
       "2025-08-21": 74,
@@ -1361,7 +1360,7 @@
     "time": 1183,
     "timeDay": 668,
     "timeWeek": 805,
-    "timeMonth": 783,
+    "timeMonth": 787,
     "timeYear": 852,
     "dailyMinutesDown": {
       "2025-08-21": 86,
@@ -1389,7 +1388,7 @@
     "time": 1275,
     "timeDay": 718,
     "timeWeek": 850,
-    "timeMonth": 840,
+    "timeMonth": 836,
     "timeYear": 1051,
     "dailyMinutesDown": {
       "2025-08-16": 32,
@@ -1420,7 +1419,7 @@
     "time": 1381,
     "timeDay": 775,
     "timeWeek": 891,
-    "timeMonth": 892,
+    "timeMonth": 897,
     "timeYear": 1085,
     "dailyMinutesDown": {
       "2025-08-16": 31,
@@ -1447,7 +1446,7 @@
     "time": 1317,
     "timeDay": 643,
     "timeWeek": 747,
-    "timeMonth": 729,
+    "timeMonth": 733,
     "timeYear": 1075,
     "dailyMinutesDown": {
       "2025-08-16": 31,
