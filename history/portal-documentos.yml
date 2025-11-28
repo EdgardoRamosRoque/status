@@ -1,7 +1,7 @@
 url: https://www.documentos.una.ac.cr/
-status: up
-code: 200
-responseTime: 1334
-lastUpdated: 2025-11-28T13:42:31.310Z
+status: down
+code: 503
+responseTime: 1114
+lastUpdated: 2025-11-28T16:11:04.564Z
 startTime: 2022-03-14T17:54:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
