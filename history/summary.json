@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.12%",
     "uptimeMonth": "97.51%",
-    "uptimeYear": "73.15%",
+    "uptimeYear": "73.17%",
     "time": 1421,
     "timeDay": 1016,
     "timeWeek": 997,
@@ -129,8 +129,7 @@
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
-      "2024-11-30": 1440,
-      "2024-11-29": 1440
+      "2024-11-30": 1440
     }
   },
   {
@@ -143,7 +142,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.13%",
     "uptimeMonth": "97.46%",
-    "uptimeYear": "73.20%",
+    "uptimeYear": "73.22%",
     "time": 1596,
     "timeDay": 1015,
     "timeWeek": 1179,
@@ -260,8 +259,7 @@
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
-      "2024-11-30": 1440,
-      "2024-11-29": 1440
+      "2024-11-30": 1440
     }
   },
   {
@@ -274,7 +272,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.53%",
     "uptimeMonth": "69.70%",
-    "uptimeYear": "70.98%",
+    "uptimeYear": "71.00%",
     "time": 1513,
     "timeDay": 916,
     "timeWeek": 733,
@@ -394,8 +392,7 @@
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
-      "2024-11-30": 1440,
-      "2024-11-29": 1440
+      "2024-11-30": 1440
     }
   },
   {
@@ -549,12 +546,12 @@
     "slug": "portal-documentos",
     "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "63.84%",
+    "uptimeDay": "64.51%",
     "uptimeWeek": "53.30%",
     "uptimeMonth": "73.92%",
     "uptimeYear": "97.27%",
     "time": 1790,
-    "timeDay": 1411,
+    "timeDay": 1431,
     "timeWeek": 2020,
     "timeMonth": 1767,
     "timeYear": 1594,
@@ -824,18 +821,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aulavirtual.una.ac.cr.ico",
     "slug": "aula-virtual-institucional",
     "status": "down",
-    "uptime": "83.98%",
+    "uptime": "83.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "41.77%",
+    "uptimeYear": "41.75%",
     "time": 2178,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1656,
     "dailyMinutesDown": {
-      "2025-11-28": 1410,
+      "2025-11-29": 76,
+      "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
@@ -1202,9 +1200,9 @@
     "slug": "portal-vicerrectoria-docencia",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "96.33%",
-    "uptimeMonth": "97.50%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.44%",
+    "uptimeMonth": "97.52%",
     "uptimeYear": "99.28%",
     "time": 1202,
     "timeDay": 628,
@@ -1212,7 +1210,6 @@
     "timeMonth": 1048,
     "timeYear": 850,
     "dailyMinutesDown": {
-      "2025-11-28": 11,
       "2025-11-24": 39,
       "2025-11-23": 320,
       "2025-11-08": 577,
