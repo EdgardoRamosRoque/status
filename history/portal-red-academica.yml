@@ -1,7 +1,7 @@
 url: https://redacademica.una.ac.cr/
-status: up
-code: 200
-responseTime: 702
-lastUpdated: 2025-12-13T23:18:40.075Z
+status: down
+code: 500
+responseTime: 622
+lastUpdated: 2025-12-14T19:40:17.709Z
 startTime: 2022-03-16T16:15:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
