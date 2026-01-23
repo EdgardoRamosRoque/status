@@ -1,7 +1,7 @@
 url: https://www.cide.una.ac.cr/
-status: up
-code: 200
-responseTime: 1042
-lastUpdated: 2026-01-23T15:30:02.661Z
+status: down
+code: 500
+responseTime: 801
+lastUpdated: 2026-01-23T15:49:46.558Z
 startTime: 2022-03-16T16:16:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
