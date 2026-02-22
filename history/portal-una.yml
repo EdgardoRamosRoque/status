@@ -1,7 +1,7 @@
 url: https://www.una.ac.cr/
-status: up
-code: 200
-responseTime: 783
-lastUpdated: 2026-02-21T23:24:38.296Z
+status: down
+code: 500
+responseTime: 2383
+lastUpdated: 2026-02-22T11:00:50.120Z
 startTime: 2022-03-14T17:53:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
