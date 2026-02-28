@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.64%",
     "uptimeMonth": "98.54%",
-    "uptimeYear": "97.68%",
+    "uptimeYear": "97.70%",
     "time": 1344,
     "timeDay": 1009,
     "timeWeek": 1007,
@@ -45,8 +45,7 @@
       "2025-03-04": 861,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
-      "2025-03-01": 1440,
-      "2025-02-28": 1440
+      "2025-03-01": 1440
     }
   },
   {
@@ -59,7 +58,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.35%",
     "uptimeMonth": "98.47%",
-    "uptimeYear": "97.70%",
+    "uptimeYear": "97.72%",
     "time": 1500,
     "timeDay": 1065,
     "timeWeek": 885,
@@ -93,8 +92,7 @@
       "2025-03-04": 860,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
-      "2025-03-01": 1440,
-      "2025-02-28": 1440
+      "2025-03-01": 1440
     }
   },
   {
@@ -107,7 +105,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.88%",
+    "uptimeYear": "95.90%",
     "time": 1359,
     "timeDay": 600,
     "timeWeek": 479,
@@ -138,8 +136,7 @@
       "2025-03-04": 860,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
-      "2025-03-01": 1440,
-      "2025-02-28": 1440
+      "2025-03-01": 1440
     }
   },
   {
@@ -371,18 +368,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.repositorio.una.ac.cr.ico",
     "slug": "portal-repositorio",
     "status": "down",
-    "uptime": "99.17%",
+    "uptime": "99.16%",
     "uptimeDay": "25.54%",
-    "uptimeWeek": "47.80%",
-    "uptimeMonth": "87.09%",
-    "uptimeYear": "98.01%",
+    "uptimeWeek": "46.76%",
+    "uptimeMonth": "86.85%",
+    "uptimeYear": "97.99%",
     "time": 3546,
     "timeDay": 1603,
     "timeWeek": 6377,
     "timeMonth": 4664,
     "timeYear": 2726,
     "dailyMinutesDown": {
-      "2026-02-27": 1069,
+      "2026-02-28": 100,
+      "2026-02-27": 1073,
       "2026-02-26": 1087,
       "2026-02-25": 1307,
       "2026-02-24": 653,
@@ -642,14 +640,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "16.83%",
+    "uptimeYear": "16.81%",
     "time": 2324,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1656,
     "dailyMinutesDown": {
-      "2026-02-27": 1436,
+      "2026-02-28": 100,
+      "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
