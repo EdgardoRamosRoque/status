@@ -93,7 +93,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.calendario.una.ac.cr.ico",
     "slug": "calendario-universitario",
     "status": "up",
-    "uptime": "80.66%",
+    "uptime": "80.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -357,8 +357,8 @@
     "slug": "portal-repositorio",
     "status": "up",
     "uptime": "98.73%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "3.91%",
+    "uptimeDay": "7.57%",
+    "uptimeWeek": "4.98%",
     "uptimeMonth": "65.70%",
     "uptimeYear": "96.17%",
     "time": 3327,
@@ -624,14 +624,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "14.91%",
+    "uptimeYear": "14.89%",
     "time": 2172,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1673,
     "dailyMinutesDown": {
-      "2026-03-06": 1436,
+      "2026-03-07": 105,
+      "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
@@ -943,8 +944,7 @@
       "2025-05-01": 1440,
       "2025-04-30": 590,
       "2025-04-23": 89,
-      "2025-04-04": 45,
-      "2025-03-07": 96
+      "2025-04-04": 45
     }
   },
   {
