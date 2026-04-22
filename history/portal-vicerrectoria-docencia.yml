@@ -1,7 +1,7 @@
 url: https://www.docencia.una.ac.cr/
-status: up
-code: 200
-responseTime: 1579
-lastUpdated: 2026-04-22T08:04:04.506Z
+status: down
+code: 500
+responseTime: 557
+lastUpdated: 2026-04-22T15:43:44.081Z
 startTime: 2022-03-16T19:32:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
