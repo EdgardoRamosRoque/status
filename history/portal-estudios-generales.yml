@@ -1,7 +1,7 @@
 url: https://www.ceg.una.ac.cr/
-status: up
-code: 200
-responseTime: 793
-lastUpdated: 2026-04-28T09:38:24.240Z
+status: down
+code: 500
+responseTime: 569
+lastUpdated: 2026-04-28T15:32:50.907Z
 startTime: 2022-03-16T16:16:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
