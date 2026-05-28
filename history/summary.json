@@ -389,16 +389,16 @@
     "url": "https://www.documentos.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.documentos.una.ac.cr.ico",
     "slug": "portal-documentos",
-    "status": "down",
+    "status": "up",
     "uptime": "98.74%",
-    "uptimeDay": "88.94%",
-    "uptimeWeek": "98.42%",
-    "uptimeMonth": "88.34%",
-    "uptimeYear": "94.72%",
-    "time": 1591,
-    "timeDay": 1446,
-    "timeWeek": 1239,
-    "timeMonth": 1134,
+    "uptimeDay": "80.78%",
+    "uptimeWeek": "97.25%",
+    "uptimeMonth": "88.08%",
+    "uptimeYear": "94.69%",
+    "time": 1589,
+    "timeDay": 1367,
+    "timeWeek": 1245,
+    "timeMonth": 1140,
     "timeYear": 1465,
     "dailyMinutesDown": {
       "2025-11-27": 490,
@@ -439,7 +439,7 @@
       "2026-05-02": 878,
       "2026-05-03": 1085,
       "2026-05-04": 410,
-      "2026-05-28": 159
+      "2026-05-28": 277
     }
   },
   {
@@ -451,7 +451,7 @@
     "uptime": "98.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.82%",
+    "uptimeMonth": "83.83%",
     "uptimeYear": "94.76%",
     "time": 3358,
     "timeDay": 1407,
@@ -653,16 +653,16 @@
     "url": "https://www.rectoria.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.rectoria.una.ac.cr.ico",
     "slug": "portal-rectoria",
-    "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "97.37%",
-    "uptimeYear": "98.01%",
-    "time": 1249,
-    "timeDay": 6297,
-    "timeWeek": 2316,
-    "timeMonth": 1193,
+    "status": "up",
+    "uptime": "99.52%",
+    "uptimeDay": "91.74%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "97.11%",
+    "uptimeYear": "97.99%",
+    "time": 1247,
+    "timeDay": 4473,
+    "timeWeek": 2151,
+    "timeMonth": 1185,
     "timeYear": 1175,
     "dailyMinutesDown": {
       "2025-11-07": 78,
@@ -726,7 +726,7 @@
       "2026-05-02": 77,
       "2026-05-03": 222,
       "2026-05-06": 71,
-      "2026-05-28": 2
+      "2026-05-28": 119
     }
   },
   {
@@ -785,7 +785,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-28": 1162,
+      "2026-05-28": 1281,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
