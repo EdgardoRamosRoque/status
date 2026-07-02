@@ -50,7 +50,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.carreras.una.ac.cr.ico",
     "slug": "carreras-una",
     "status": "up",
-    "uptime": "80.85%",
+    "uptime": "80.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.58%",
@@ -121,7 +121,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.calendario.una.ac.cr.ico",
     "slug": "calendario-universitario",
     "status": "up",
-    "uptime": "82.04%",
+    "uptime": "82.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.73%",
@@ -529,7 +529,7 @@
     "timeDay": 432,
     "timeWeek": 514,
     "timeMonth": 555,
-    "timeYear": 2243,
+    "timeYear": 2233,
     "dailyMinutesDown": {
       "2026-01-26": 276,
       "2026-01-27": 87,
@@ -780,7 +780,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aulavirtual.una.ac.cr.ico",
     "slug": "aula-virtual-institucional",
     "status": "down",
-    "uptime": "72.47%",
+    "uptime": "72.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -791,7 +791,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-02": 174,
+      "2026-07-02": 1026,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
@@ -1473,10 +1473,10 @@
     "url": "http://www.tierraymar.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tierraymar.una.ac.cr.ico",
     "slug": "portal-facultad-de-tierra-y-mar",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.09%",
     "uptimeYear": "99.29%",
     "time": 843,
@@ -1497,7 +1497,8 @@
       "2026-04-19": 69,
       "2026-04-28": 786,
       "2026-04-27": 378,
-      "2026-06-03": 399
+      "2026-06-03": 399,
+      "2026-07-02": 1
     }
   },
   {
