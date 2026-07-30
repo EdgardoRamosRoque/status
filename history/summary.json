@@ -4,16 +4,16 @@
     "url": "https://www.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.una.ac.cr.ico",
     "slug": "portal-una",
-    "status": "down",
+    "status": "up",
     "uptime": "83.02%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "98.90%",
-    "time": 1115,
-    "timeDay": 1107,
-    "timeWeek": 1218,
-    "timeMonth": 1240,
+    "uptimeDay": "93.72%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "98.88%",
+    "time": 1116,
+    "timeDay": 1226,
+    "timeWeek": 1234,
+    "timeMonth": 1243,
     "timeYear": 1086,
     "dailyMinutesDown": {
       "2025-07-31": 62,
@@ -43,7 +43,7 @@
       "2026-06-02": 43,
       "2026-06-04": 130,
       "2026-07-21": 76,
-      "2026-07-30": 4
+      "2026-07-30": 90
     }
   },
   {
@@ -459,12 +459,12 @@
     "uptime": "98.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.62%",
-    "uptimeMonth": "97.28%",
+    "uptimeMonth": "97.32%",
     "uptimeYear": "94.48%",
     "time": 3328,
     "timeDay": 1566,
     "timeWeek": 3731,
-    "timeMonth": 2774,
+    "timeMonth": 2650,
     "timeYear": 3529,
     "dailyMinutesDown": {
       "2026-03-22": 154,
@@ -799,7 +799,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-30": 978,
+      "2026-07-30": 1065,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
