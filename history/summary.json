@@ -13,7 +13,7 @@
     "time": 1117,
     "timeDay": 968,
     "timeWeek": 1223,
-    "timeMonth": 1240,
+    "timeMonth": 1250,
     "timeYear": 1087,
     "dailyMinutesDown": {
       "2025-08-06": 198,
@@ -59,7 +59,7 @@
     "time": 1234,
     "timeDay": 2200,
     "timeWeek": 1504,
-    "timeMonth": 1319,
+    "timeMonth": 1323,
     "timeYear": 1267,
     "dailyMinutesDown": {
       "2025-08-06": 26,
@@ -123,7 +123,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.calendario.una.ac.cr.ico",
     "slug": "calendario-universitario",
     "status": "up",
-    "uptime": "82.37%",
+    "uptime": "82.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
@@ -131,7 +131,7 @@
     "time": 613,
     "timeDay": 419,
     "timeWeek": 534,
-    "timeMonth": 521,
+    "timeMonth": 524,
     "timeYear": 607,
     "dailyMinutesDown": {
       "2025-08-06": 26,
@@ -174,7 +174,7 @@
     "time": 1122,
     "timeDay": 924,
     "timeWeek": 1205,
-    "timeMonth": 1133,
+    "timeMonth": 1117,
     "timeYear": 1098,
     "dailyMinutesDown": {
       "2025-08-06": 25,
@@ -207,7 +207,7 @@
     "time": 1662,
     "timeDay": 1153,
     "timeWeek": 1306,
-    "timeMonth": 1442,
+    "timeMonth": 1454,
     "timeYear": 1568,
     "dailyMinutesDown": {
       "2025-08-06": 196,
@@ -285,7 +285,7 @@
     "time": 941,
     "timeDay": 541,
     "timeWeek": 776,
-    "timeMonth": 731,
+    "timeMonth": 736,
     "timeYear": 903,
     "dailyMinutesDown": {
       "2025-08-06": 195,
@@ -327,7 +327,7 @@
     "time": 1262,
     "timeDay": 1136,
     "timeWeek": 1265,
-    "timeMonth": 1276,
+    "timeMonth": 1285,
     "timeYear": 1269,
     "dailyMinutesDown": {
       "2025-08-06": 195,
@@ -403,7 +403,7 @@
     "time": 1424,
     "timeDay": 440,
     "timeWeek": 509,
-    "timeMonth": 500,
+    "timeMonth": 505,
     "timeYear": 1371,
     "dailyMinutesDown": {
       "2025-11-28": 520,
@@ -454,17 +454,17 @@
     "url": "https://www.repositorio.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.repositorio.una.ac.cr.ico",
     "slug": "portal-repositorio",
-    "status": "down",
+    "status": "up",
     "uptime": "98.74%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "95.61%",
-    "uptimeMonth": "97.52%",
-    "uptimeYear": "94.50%",
-    "time": 3321,
-    "timeDay": 0,
-    "timeWeek": 3964,
-    "timeMonth": 2659,
-    "timeYear": 3533,
+    "uptimeDay": "95.63%",
+    "uptimeWeek": "94.99%",
+    "uptimeMonth": "97.38%",
+    "uptimeYear": "94.49%",
+    "time": 3318,
+    "timeDay": 1207,
+    "timeWeek": 3713,
+    "timeMonth": 2663,
+    "timeYear": 3529,
     "dailyMinutesDown": {
       "2026-03-22": 44,
       "2026-03-23": 557,
@@ -521,7 +521,7 @@
       "2026-07-21": 66,
       "2026-07-28": 282,
       "2026-07-29": 160,
-      "2026-08-01": 1
+      "2026-08-01": 63
     }
   },
   {
@@ -538,7 +538,7 @@
     "time": 2250,
     "timeDay": 628,
     "timeWeek": 678,
-    "timeMonth": 574,
+    "timeMonth": 580,
     "timeYear": 2360,
     "dailyMinutesDown": {
       "2026-01-26": 153,
@@ -604,7 +604,7 @@
     "time": 855,
     "timeDay": 599,
     "timeWeek": 727,
-    "timeMonth": 885,
+    "timeMonth": 894,
     "timeYear": 888,
     "dailyMinutesDown": {
       "2025-08-06": 193,
@@ -678,7 +678,7 @@
     "time": 1138,
     "timeDay": 737,
     "timeWeek": 869,
-    "timeMonth": 949,
+    "timeMonth": 954,
     "timeYear": 1176,
     "dailyMinutesDown": {
       "2025-11-08": 585,
@@ -760,7 +760,7 @@
     "time": 1153,
     "timeDay": 1005,
     "timeWeek": 959,
-    "timeMonth": 947,
+    "timeMonth": 953,
     "timeYear": 1068,
     "dailyMinutesDown": {
       "2025-08-06": 192,
@@ -798,7 +798,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-01": 4,
+      "2026-08-01": 67,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -1179,7 +1179,7 @@
     "time": 1016,
     "timeDay": 920,
     "timeWeek": 1015,
-    "timeMonth": 1098,
+    "timeMonth": 1105,
     "timeYear": 1043,
     "dailyMinutesDown": {
       "2025-08-06": 174,
@@ -1222,7 +1222,7 @@
     "time": 883,
     "timeDay": 613,
     "timeWeek": 686,
-    "timeMonth": 783,
+    "timeMonth": 792,
     "timeYear": 826,
     "dailyMinutesDown": {
       "2025-08-06": 174,
@@ -1266,7 +1266,7 @@
     "time": 1378,
     "timeDay": 703,
     "timeWeek": 934,
-    "timeMonth": 1103,
+    "timeMonth": 1109,
     "timeYear": 1410,
     "dailyMinutesDown": {
       "2025-08-06": 174,
@@ -1313,7 +1313,7 @@
     "time": 1038,
     "timeDay": 827,
     "timeWeek": 905,
-    "timeMonth": 977,
+    "timeMonth": 983,
     "timeYear": 1086,
     "dailyMinutesDown": {
       "2025-08-06": 173,
@@ -1357,7 +1357,7 @@
     "time": 868,
     "timeDay": 721,
     "timeWeek": 787,
-    "timeMonth": 892,
+    "timeMonth": 902,
     "timeYear": 892,
     "dailyMinutesDown": {
       "2025-08-06": 173,
@@ -1402,7 +1402,7 @@
     "time": 1026,
     "timeDay": 853,
     "timeWeek": 909,
-    "timeMonth": 946,
+    "timeMonth": 952,
     "timeYear": 1074,
     "dailyMinutesDown": {
       "2025-08-06": 164,
@@ -1447,7 +1447,7 @@
     "time": 945,
     "timeDay": 835,
     "timeWeek": 896,
-    "timeMonth": 925,
+    "timeMonth": 933,
     "timeYear": 982,
     "dailyMinutesDown": {
       "2025-08-06": 164,
@@ -1492,7 +1492,7 @@
     "time": 837,
     "timeDay": 735,
     "timeWeek": 837,
-    "timeMonth": 803,
+    "timeMonth": 807,
     "timeYear": 823,
     "dailyMinutesDown": {
       "2025-08-06": 163,
@@ -1524,7 +1524,7 @@
     "time": 1037,
     "timeDay": 858,
     "timeWeek": 1225,
-    "timeMonth": 1279,
+    "timeMonth": 1282,
     "timeYear": 1035,
     "dailyMinutesDown": {
       "2025-08-06": 163,
@@ -1557,7 +1557,7 @@
     "time": 960,
     "timeDay": 720,
     "timeWeek": 923,
-    "timeMonth": 840,
+    "timeMonth": 845,
     "timeYear": 994,
     "dailyMinutesDown": {
       "2025-08-06": 162,
@@ -1602,7 +1602,7 @@
     "time": 991,
     "timeDay": 774,
     "timeWeek": 873,
-    "timeMonth": 881,
+    "timeMonth": 887,
     "timeYear": 925,
     "dailyMinutesDown": {
       "2025-08-06": 162,
@@ -1654,7 +1654,7 @@
     "time": 991,
     "timeDay": 655,
     "timeWeek": 798,
-    "timeMonth": 852,
+    "timeMonth": 859,
     "timeYear": 927,
     "dailyMinutesDown": {
       "2025-08-06": 161,
@@ -1699,7 +1699,7 @@
     "time": 951,
     "timeDay": 706,
     "timeWeek": 797,
-    "timeMonth": 785,
+    "timeMonth": 789,
     "timeYear": 844,
     "dailyMinutesDown": {
       "2025-08-06": 172,
