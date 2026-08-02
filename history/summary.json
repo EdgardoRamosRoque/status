@@ -4,16 +4,16 @@
     "url": "https://www.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.una.ac.cr.ico",
     "slug": "portal-una",
-    "status": "down",
+    "status": "up",
     "uptime": "83.05%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "98.89%",
+    "uptimeDay": "96.20%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "98.88%",
     "time": 1117,
-    "timeDay": 1361,
-    "timeWeek": 1220,
-    "timeMonth": 1265,
+    "timeDay": 1297,
+    "timeWeek": 1222,
+    "timeMonth": 1264,
     "timeYear": 1088,
     "dailyMinutesDown": {
       "2025-08-06": 198,
@@ -43,7 +43,7 @@
       "2026-06-04": 130,
       "2026-07-21": 76,
       "2026-07-30": 90,
-      "2026-08-02": 7
+      "2026-08-02": 55
     }
   },
   {
@@ -51,16 +51,16 @@
     "url": "https://www.carreras.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.carreras.una.ac.cr.ico",
     "slug": "carreras-una",
-    "status": "down",
+    "status": "up",
     "uptime": "81.23%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "91.92%",
+    "uptimeDay": "96.33%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "91.91%",
     "time": 1237,
-    "timeDay": 2976,
-    "timeWeek": 1731,
-    "timeMonth": 1386,
+    "timeDay": 2059,
+    "timeWeek": 1657,
+    "timeMonth": 1379,
     "timeYear": 1269,
     "dailyMinutesDown": {
       "2025-08-06": 26,
@@ -116,7 +116,7 @@
       "2026-06-02": 38,
       "2026-06-04": 128,
       "2026-07-21": 76,
-      "2026-08-02": 5
+      "2026-08-02": 53
     }
   },
   {
@@ -800,7 +800,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-02": 1343,
+      "2026-08-02": 1392,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
