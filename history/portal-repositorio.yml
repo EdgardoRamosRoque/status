@@ -1,7 +1,7 @@
 url: https://www.repositorio.una.ac.cr/
-status: up
-code: 200
-responseTime: 1528
-lastUpdated: 2026-08-10T08:17:25.311Z
+status: down
+code: 502
+responseTime: 39064
+lastUpdated: 2026-08-10T17:23:51.735Z
 startTime: 2022-03-16T16:15:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
