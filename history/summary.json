@@ -389,16 +389,16 @@
     "url": "https://www.documentos.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.documentos.una.ac.cr.ico",
     "slug": "portal-documentos",
-    "status": "down",
+    "status": "up",
     "uptime": "98.76%",
-    "uptimeDay": "63.19%",
-    "uptimeWeek": "94.74%",
-    "uptimeMonth": "98.79%",
-    "uptimeYear": "94.49%",
-    "time": 1390,
-    "timeDay": 578,
-    "timeWeek": 536,
-    "timeMonth": 501,
+    "uptimeDay": "58.70%",
+    "uptimeWeek": "94.10%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "94.48%",
+    "time": 1389,
+    "timeDay": 827,
+    "timeWeek": 603,
+    "timeMonth": 519,
     "timeYear": 1322,
     "dailyMinutesDown": {
       "2025-11-28": 420,
@@ -442,7 +442,7 @@
       "2026-05-29": 699,
       "2026-06-03": 418,
       "2026-06-02": 9,
-      "2026-08-22": 530
+      "2026-08-22": 595
     }
   },
   {
@@ -531,10 +531,10 @@
     "slug": "portal-revistas-universitarias",
     "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "55.61%",
-    "uptimeWeek": "93.66%",
-    "uptimeMonth": "98.54%",
-    "uptimeYear": "98.13%",
+    "uptimeDay": "51.05%",
+    "uptimeWeek": "93.01%",
+    "uptimeMonth": "98.39%",
+    "uptimeYear": "98.11%",
     "time": 2341,
     "timeDay": 525,
     "timeWeek": 516,
@@ -588,7 +588,7 @@
       "2026-06-03": 1181,
       "2026-06-17": 81,
       "2026-07-21": 66,
-      "2026-08-22": 639
+      "2026-08-22": 705
     }
   },
   {
@@ -796,7 +796,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-22": 955,
+      "2026-08-22": 1021,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
