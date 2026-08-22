@@ -6,10 +6,10 @@
     "slug": "portal-una",
     "status": "down",
     "uptime": "83.23%",
-    "uptimeDay": "62.24%",
-    "uptimeWeek": "94.61%",
-    "uptimeMonth": "98.43%",
-    "uptimeYear": "98.82%",
+    "uptimeDay": "57.66%",
+    "uptimeWeek": "93.95%",
+    "uptimeMonth": "98.28%",
+    "uptimeYear": "98.81%",
     "time": 1128,
     "timeDay": 938,
     "timeWeek": 1240,
@@ -42,7 +42,7 @@
       "2026-07-21": 76,
       "2026-07-30": 90,
       "2026-08-02": 55,
-      "2026-08-22": 544
+      "2026-08-22": 610
     }
   },
   {
@@ -52,10 +52,10 @@
     "slug": "carreras-una",
     "status": "down",
     "uptime": "81.43%",
-    "uptimeDay": "62.26%",
-    "uptimeWeek": "94.61%",
-    "uptimeMonth": "98.64%",
-    "uptimeYear": "91.82%",
+    "uptimeDay": "57.69%",
+    "uptimeWeek": "93.96%",
+    "uptimeMonth": "98.49%",
+    "uptimeYear": "91.81%",
     "time": 1248,
     "timeDay": 1029,
     "timeWeek": 1412,
@@ -114,7 +114,7 @@
       "2026-06-04": 128,
       "2026-07-21": 76,
       "2026-08-02": 53,
-      "2026-08-22": 543
+      "2026-08-22": 609
     }
   },
   {
@@ -275,10 +275,10 @@
     "slug": "portal-transparencia",
     "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "60.50%",
-    "uptimeWeek": "94.36%",
-    "uptimeMonth": "98.70%",
-    "uptimeYear": "98.95%",
+    "uptimeDay": "55.93%",
+    "uptimeWeek": "93.70%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "98.94%",
     "time": 937,
     "timeDay": 1625,
     "timeWeek": 934,
@@ -306,7 +306,7 @@
       "2026-04-27": 116,
       "2026-06-03": 883,
       "2026-06-02": 19,
-      "2026-08-22": 569
+      "2026-08-22": 634
     }
   },
   {
@@ -390,11 +390,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.documentos.una.ac.cr.ico",
     "slug": "portal-documentos",
     "status": "down",
-    "uptime": "98.77%",
-    "uptimeDay": "71.26%",
-    "uptimeWeek": "95.89%",
-    "uptimeMonth": "99.06%",
-    "uptimeYear": "94.51%",
+    "uptime": "98.76%",
+    "uptimeDay": "66.69%",
+    "uptimeWeek": "95.24%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "94.50%",
     "time": 1390,
     "timeDay": 578,
     "timeWeek": 536,
@@ -442,7 +442,7 @@
       "2026-05-29": 699,
       "2026-06-03": 418,
       "2026-06-02": 9,
-      "2026-08-22": 414
+      "2026-08-22": 480
     }
   },
   {
@@ -452,10 +452,10 @@
     "slug": "portal-repositorio",
     "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "63.65%",
-    "uptimeWeek": "94.65%",
-    "uptimeMonth": "95.59%",
-    "uptimeYear": "94.75%",
+    "uptimeDay": "59.08%",
+    "uptimeWeek": "93.99%",
+    "uptimeMonth": "95.44%",
+    "uptimeYear": "94.74%",
     "time": 3465,
     "timeDay": 1373,
     "timeWeek": 2079,
@@ -521,7 +521,7 @@
       "2026-08-11": 56,
       "2026-08-12": 87,
       "2026-08-16": 16,
-      "2026-08-22": 523
+      "2026-08-22": 589
     }
   },
   {
@@ -531,10 +531,10 @@
     "slug": "portal-revistas-universitarias",
     "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "63.68%",
-    "uptimeWeek": "94.81%",
-    "uptimeMonth": "98.81%",
-    "uptimeYear": "98.15%",
+    "uptimeDay": "59.11%",
+    "uptimeWeek": "94.16%",
+    "uptimeMonth": "98.66%",
+    "uptimeYear": "98.14%",
     "time": 2341,
     "timeDay": 525,
     "timeWeek": 516,
@@ -588,7 +588,7 @@
       "2026-06-03": 1181,
       "2026-06-17": 81,
       "2026-07-21": 66,
-      "2026-08-22": 523
+      "2026-08-22": 589
     }
   },
   {
@@ -796,7 +796,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-22": 839,
+      "2026-08-22": 905,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -1210,16 +1210,16 @@
     "url": "https://www.vidaestudiantil.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.vidaestudiantil.una.ac.cr.ico",
     "slug": "portal-vicerrectoria-vida-estudiantil",
-    "status": "down",
+    "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "65.03%",
-    "uptimeWeek": "95.00%",
-    "uptimeMonth": "98.85%",
-    "uptimeYear": "98.89%",
+    "uptimeDay": "60.53%",
+    "uptimeWeek": "94.36%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "98.88%",
     "time": 872,
-    "timeDay": 577,
-    "timeWeek": 576,
-    "timeMonth": 642,
+    "timeDay": 703,
+    "timeWeek": 607,
+    "timeMonth": 648,
     "timeYear": 815,
     "dailyMinutesDown": {
       "2025-08-31": 310,
@@ -1245,7 +1245,7 @@
       "2026-04-28": 319,
       "2026-04-27": 112,
       "2026-06-03": 633,
-      "2026-08-22": 504
+      "2026-08-22": 568
     }
   },
   {
