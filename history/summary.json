@@ -268,17 +268,17 @@
     "url": "https://www.transparencia.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.transparencia.una.ac.cr.ico",
     "slug": "portal-transparencia",
-    "status": "down",
+    "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.06%",
+    "uptimeDay": "97.20%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.05%",
     "time": 937,
-    "timeDay": 2146,
-    "timeWeek": 978,
-    "timeMonth": 809,
-    "timeYear": 893,
+    "timeDay": 1625,
+    "timeWeek": 934,
+    "timeMonth": 802,
+    "timeYear": 892,
     "dailyMinutesDown": {
       "2025-08-27": 17,
       "2025-10-24": 83,
@@ -301,7 +301,7 @@
       "2026-04-27": 116,
       "2026-06-03": 883,
       "2026-06-02": 19,
-      "2026-08-22": 2
+      "2026-08-22": 40
     }
   },
   {
@@ -786,7 +786,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-22": 199,
+      "2026-08-22": 237,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -1241,17 +1241,17 @@
     "url": "https://www.vadm.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.vadm.una.ac.cr.ico",
     "slug": "portal-vicerrectoria-administracion",
-    "status": "down",
+    "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "97.23%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "98.72%",
     "time": 1370,
-    "timeDay": 2137,
-    "timeWeek": 1067,
-    "timeMonth": 946,
-    "timeYear": 1392,
+    "timeDay": 1641,
+    "timeWeek": 1021,
+    "timeMonth": 937,
+    "timeYear": 1390,
     "dailyMinutesDown": {
       "2025-08-27": 32,
       "2025-10-24": 83,
@@ -1279,7 +1279,7 @@
       "2026-04-27": 112,
       "2026-06-03": 927,
       "2026-07-21": 64,
-      "2026-08-22": 2
+      "2026-08-22": 40
     }
   },
   {
@@ -1487,17 +1487,17 @@
     "url": "https://www.cienciassociales.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cienciassociales.una.ac.cr.ico",
     "slug": "portal-facultad-de-ciencias-social",
-    "status": "down",
+    "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.43%",
-    "time": 1037,
-    "timeDay": 2447,
-    "timeWeek": 1229,
-    "timeMonth": 1057,
-    "timeYear": 1033,
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.42%",
+    "time": 1039,
+    "timeDay": 2300,
+    "timeWeek": 1316,
+    "timeMonth": 1086,
+    "timeYear": 1035,
     "dailyMinutesDown": {
       "2025-11-16": 18,
       "2025-11-23": 318,
@@ -1510,7 +1510,7 @@
       "2026-04-27": 109,
       "2026-06-03": 1118,
       "2026-07-21": 63,
-      "2026-08-22": 2
+      "2026-08-22": 40
     }
   },
   {
@@ -1611,17 +1611,17 @@
     "url": "https://www.cide.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cide.una.ac.cr.ico",
     "slug": "portal-cide",
-    "status": "down",
+    "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.81%",
+    "uptimeDay": "97.27%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "98.80%",
     "time": 991,
-    "timeDay": 1716,
-    "timeWeek": 937,
-    "timeMonth": 859,
-    "timeYear": 918,
+    "timeDay": 1354,
+    "timeWeek": 903,
+    "timeMonth": 852,
+    "timeYear": 917,
     "dailyMinutesDown": {
       "2025-10-24": 83,
       "2025-11-07": 110,
@@ -1647,7 +1647,7 @@
       "2026-04-27": 107,
       "2026-06-03": 1104,
       "2026-07-21": 62,
-      "2026-08-22": 2
+      "2026-08-22": 39
     }
   },
   {
