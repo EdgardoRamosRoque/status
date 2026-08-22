@@ -4,13 +4,13 @@
     "url": "https://www.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.una.ac.cr.ico",
     "slug": "portal-una",
-    "status": "up",
+    "status": "down",
     "uptime": "83.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "98.93%",
-    "time": 1127,
+    "uptimeDay": "93.75%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "98.91%",
+    "time": 1128,
     "timeDay": 938,
     "timeWeek": 1240,
     "timeMonth": 1229,
@@ -41,7 +41,8 @@
       "2026-06-04": 130,
       "2026-07-21": 76,
       "2026-07-30": 90,
-      "2026-08-02": 55
+      "2026-08-02": 55,
+      "2026-08-22": 90
     }
   },
   {
@@ -49,12 +50,12 @@
     "url": "https://www.carreras.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.carreras.una.ac.cr.ico",
     "slug": "carreras-una",
-    "status": "up",
+    "status": "down",
     "uptime": "81.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "91.92%",
+    "uptimeDay": "93.78%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "91.91%",
     "time": 1248,
     "timeDay": 1029,
     "timeWeek": 1412,
@@ -112,7 +113,8 @@
       "2026-06-02": 38,
       "2026-06-04": 128,
       "2026-07-21": 76,
-      "2026-08-02": 53
+      "2026-08-02": 53,
+      "2026-08-22": 90
     }
   },
   {
@@ -120,12 +122,12 @@
     "url": "https://www.calendario.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.calendario.una.ac.cr.ico",
     "slug": "calendario-universitario",
-    "status": "up",
+    "status": "down",
     "uptime": "82.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "97.14%",
+    "uptimeDay": "94.11%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "97.13%",
     "time": 608,
     "timeDay": 404,
     "timeWeek": 528,
@@ -153,7 +155,8 @@
       "2026-04-28": 137,
       "2026-06-03": 960,
       "2026-06-02": 33,
-      "2026-07-21": 71
+      "2026-07-21": 71,
+      "2026-08-22": 85
     }
   },
   {
@@ -161,13 +164,13 @@
     "url": "https://www.directorio.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.directorio.una.ac.cr.ico",
     "slug": "portal-directorio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.60%",
-    "time": 1125,
+    "uptimeDay": "94.45%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.59%",
+    "time": 1126,
     "timeDay": 929,
     "timeWeek": 1059,
     "timeMonth": 1176,
@@ -184,7 +187,8 @@
       "2026-04-28": 137,
       "2026-06-03": 960,
       "2026-06-02": 28,
-      "2026-07-21": 67
+      "2026-07-21": 67,
+      "2026-08-22": 80
     }
   },
   {
@@ -192,12 +196,12 @@
     "url": "https://www.unacomunica.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.unacomunica.una.ac.cr.ico",
     "slug": "portal-unacomunica",
-    "status": "up",
+    "status": "down",
     "uptime": "97.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "91.39%",
+    "uptimeDay": "94.78%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "91.37%",
     "time": 1638,
     "timeDay": 1215,
     "timeWeek": 1165,
@@ -260,7 +264,8 @@
       "2026-04-27": 116,
       "2026-06-03": 960,
       "2026-06-02": 24,
-      "2026-07-21": 67
+      "2026-07-21": 67,
+      "2026-08-22": 75
     }
   },
   {
@@ -268,12 +273,12 @@
     "url": "https://www.transparencia.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.transparencia.una.ac.cr.ico",
     "slug": "portal-transparencia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "97.20%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.05%",
+    "uptimeDay": "92.01%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.04%",
     "time": 937,
     "timeDay": 1625,
     "timeWeek": 934,
@@ -301,7 +306,7 @@
       "2026-04-27": 116,
       "2026-06-03": 883,
       "2026-06-02": 19,
-      "2026-08-22": 40
+      "2026-08-22": 115
     }
   },
   {
@@ -309,12 +314,12 @@
     "url": "https://www.preguntasfrecuentes.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.preguntasfrecuentes.una.ac.cr.ico",
     "slug": "portal-preguntas-frecuentes",
-    "status": "up",
+    "status": "down",
     "uptime": "97.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "91.33%",
+    "uptimeDay": "95.14%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "91.32%",
     "time": 1266,
     "timeDay": 1134,
     "timeWeek": 1101,
@@ -375,7 +380,8 @@
       "2026-06-03": 961,
       "2026-06-02": 14,
       "2026-06-04": 347,
-      "2026-07-21": 66
+      "2026-07-21": 66,
+      "2026-08-22": 70
     }
   },
   {
@@ -443,19 +449,19 @@
     "url": "https://www.repositorio.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.repositorio.una.ac.cr.ico",
     "slug": "portal-repositorio",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "96.79%",
+    "uptimeDay": "95.17%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "96.63%",
     "uptimeYear": "94.84%",
-    "time": 3473,
+    "time": 3465,
     "timeDay": 1373,
     "timeWeek": 2079,
     "timeMonth": 7062,
     "timeYear": 3939,
     "dailyMinutesDown": {
-      "2026-03-27": 170,
+      "2026-03-27": 108,
       "2026-03-28": 790,
       "2026-03-29": 891,
       "2026-03-30": 750,
@@ -513,7 +519,8 @@
       "2026-08-10": 333,
       "2026-08-11": 56,
       "2026-08-12": 87,
-      "2026-08-16": 16
+      "2026-08-16": 16,
+      "2026-08-22": 70
     }
   },
   {
@@ -521,19 +528,19 @@
     "url": "https://www.revistas.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.revistas.una.ac.cr.ico",
     "slug": "portal-revistas-universitarias",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "95.19%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "98.24%",
-    "time": 2339,
+    "time": 2341,
     "timeDay": 525,
     "timeWeek": 516,
     "timeMonth": 602,
     "timeYear": 2478,
     "dailyMinutesDown": {
-      "2026-01-26": 153,
+      "2026-01-26": 121,
       "2026-01-27": 87,
       "2026-01-28": 52,
       "2026-01-29": 77,
@@ -579,7 +586,8 @@
       "2026-05-20": 78,
       "2026-06-03": 1181,
       "2026-06-17": 81,
-      "2026-07-21": 66
+      "2026-07-21": 66,
+      "2026-08-22": 69
     }
   },
   {
@@ -587,12 +595,12 @@
     "url": "https://redacademica.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/redacademica.una.ac.cr.ico",
     "slug": "portal-red-academica",
-    "status": "up",
+    "status": "down",
     "uptime": "97.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "90.99%",
+    "uptimeDay": "95.52%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "90.97%",
     "time": 857,
     "timeDay": 702,
     "timeWeek": 672,
@@ -651,7 +659,8 @@
       "2026-04-27": 113,
       "2026-05-28": 148,
       "2026-06-03": 955,
-      "2026-07-21": 65
+      "2026-07-21": 65,
+      "2026-08-22": 64
     }
   },
   {
@@ -659,19 +668,18 @@
     "url": "https://www.rectoria.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.rectoria.una.ac.cr.ico",
     "slug": "portal-rectoria",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "97.81%",
-    "time": 1142,
+    "status": "down",
+    "uptime": "99.53%",
+    "uptimeDay": "95.86%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "97.91%",
+    "time": 1143,
     "timeDay": 776,
     "timeWeek": 897,
     "timeMonth": 877,
     "timeYear": 1153,
     "dailyMinutesDown": {
-      "2025-11-08": 585,
       "2025-11-10": 17,
       "2025-11-11": 38,
       "2025-11-12": 27,
@@ -733,7 +741,8 @@
       "2026-05-06": 71,
       "2026-05-28": 119,
       "2026-06-03": 951,
-      "2026-07-21": 65
+      "2026-07-21": 65,
+      "2026-08-22": 60
     }
   },
   {
@@ -786,7 +795,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-22": 237,
+      "2026-08-22": 385,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -1158,12 +1167,12 @@
     "url": "https://www.siduna.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.siduna.una.ac.cr.ico",
     "slug": "portal-bibliotecas",
-    "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.98%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "96.20%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "98.97%",
     "time": 1020,
     "timeDay": 948,
     "timeWeek": 922,
@@ -1191,7 +1200,8 @@
       "2026-04-28": 319,
       "2026-04-27": 112,
       "2026-06-03": 936,
-      "2026-07-21": 65
+      "2026-07-21": 65,
+      "2026-08-22": 55
     }
   },
   {
@@ -1199,13 +1209,13 @@
     "url": "https://www.vidaestudiantil.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.vidaestudiantil.una.ac.cr.ico",
     "slug": "portal-vicerrectoria-vida-estudiantil",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.99%",
-    "time": 873,
+    "uptimeDay": "96.54%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "98.98%",
+    "time": 872,
     "timeDay": 577,
     "timeWeek": 576,
     "timeMonth": 642,
@@ -1233,7 +1243,8 @@
       "2026-04-22": 57,
       "2026-04-28": 319,
       "2026-04-27": 112,
-      "2026-06-03": 633
+      "2026-06-03": 633,
+      "2026-08-22": 50
     }
   },
   {
@@ -1241,13 +1252,13 @@
     "url": "https://www.vadm.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.vadm.una.ac.cr.ico",
     "slug": "portal-vicerrectoria-administracion",
-    "status": "up",
-    "uptime": "99.09%",
-    "uptimeDay": "97.23%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "98.72%",
-    "time": 1370,
+    "status": "down",
+    "uptime": "99.08%",
+    "uptimeDay": "94.11%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "98.71%",
+    "time": 1371,
     "timeDay": 1641,
     "timeWeek": 1021,
     "timeMonth": 937,
@@ -1279,7 +1290,7 @@
       "2026-04-27": 112,
       "2026-06-03": 927,
       "2026-07-21": 64,
-      "2026-08-22": 40
+      "2026-08-22": 85
     }
   },
   {
@@ -1287,12 +1298,12 @@
     "url": "https://www.extension.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.extension.una.ac.cr.ico",
     "slug": "portal-vicerrectoria-extension",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.96%",
+    "uptimeDay": "97.21%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "98.95%",
     "time": 1034,
     "timeDay": 790,
     "timeWeek": 799,
@@ -1321,7 +1332,8 @@
       "2026-04-28": 318,
       "2026-04-27": 111,
       "2026-06-03": 922,
-      "2026-07-21": 64
+      "2026-07-21": 64,
+      "2026-08-22": 40
     }
   },
   {
@@ -1329,12 +1341,12 @@
     "url": "https://www.docencia.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.docencia.una.ac.cr.ico",
     "slug": "portal-vicerrectoria-docencia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.96%",
+    "uptimeDay": "97.55%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "98.95%",
     "time": 866,
     "timeDay": 618,
     "timeWeek": 681,
@@ -1364,7 +1376,8 @@
       "2026-04-28": 317,
       "2026-04-27": 111,
       "2026-06-03": 917,
-      "2026-07-21": 64
+      "2026-07-21": 64,
+      "2026-08-22": 35
     }
   },
   {
@@ -1372,11 +1385,11 @@
     "url": "https://www.proveeduria.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.proveeduria.una.ac.cr.ico",
     "slug": "portal-proveeduria",
-    "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "97.89%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "98.94%",
     "time": 1023,
     "timeDay": 824,
@@ -1407,7 +1420,8 @@
       "2026-04-28": 317,
       "2026-04-27": 110,
       "2026-06-03": 912,
-      "2026-07-21": 63
+      "2026-07-21": 63,
+      "2026-08-22": 30
     }
   },
   {
@@ -1415,11 +1429,11 @@
     "url": "https://www.facultadfilosofia.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.facultadfilosofia.una.ac.cr.ico",
     "slug": "portal-facultad-filosofia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "98.96%",
     "time": 945,
     "timeDay": 806,
@@ -1449,7 +1463,8 @@
       "2026-04-28": 316,
       "2026-04-27": 110,
       "2026-06-03": 907,
-      "2026-07-21": 63
+      "2026-07-21": 63,
+      "2026-08-22": 26
     }
   },
   {
@@ -1487,13 +1502,13 @@
     "url": "https://www.cienciassociales.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cienciassociales.una.ac.cr.ico",
     "slug": "portal-facultad-de-ciencias-social",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "97.25%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "95.81%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.42%",
-    "time": 1039,
+    "time": 1040,
     "timeDay": 2300,
     "timeWeek": 1316,
     "timeMonth": 1086,
@@ -1510,7 +1525,7 @@
       "2026-04-27": 109,
       "2026-06-03": 1118,
       "2026-07-21": 63,
-      "2026-08-22": 40
+      "2026-08-22": 61
     }
   },
   {
@@ -1518,13 +1533,13 @@
     "url": "https://www.exactasynaturales.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.exactasynaturales.una.ac.cr.ico",
     "slug": "portal-facultad-de-ciencias-exactas-y-naturales",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "98.97%",
-    "time": 959,
+    "time": 960,
     "timeDay": 1000,
     "timeWeek": 770,
     "timeMonth": 802,
@@ -1552,7 +1567,8 @@
       "2026-04-28": 315,
       "2026-04-27": 108,
       "2026-06-03": 893,
-      "2026-07-21": 62
+      "2026-07-21": 62,
+      "2026-08-22": 16
     }
   },
   {
@@ -1560,11 +1576,11 @@
     "url": "https://www.ceg.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ceg.una.ac.cr.ico",
     "slug": "portal-estudios-generales",
-    "status": "up",
-    "uptime": "99.10%",
-    "uptimeDay": "96.78%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.89%",
+    "status": "down",
+    "uptime": "99.09%",
+    "uptimeDay": "96.01%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "97.07%",
     "time": 973,
     "timeDay": 667,
@@ -1603,7 +1619,8 @@
       "2026-04-30": 1,
       "2026-06-03": 888,
       "2026-07-21": 62,
-      "2026-08-21": 46
+      "2026-08-21": 46,
+      "2026-08-22": 11
     }
   },
   {
@@ -1611,11 +1628,11 @@
     "url": "https://www.cide.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cide.una.ac.cr.ico",
     "slug": "portal-cide",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "97.27%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "98.80%",
     "time": 991,
     "timeDay": 1354,
@@ -1647,7 +1664,7 @@
       "2026-04-27": 107,
       "2026-06-03": 1104,
       "2026-07-21": 62,
-      "2026-08-22": 39
+      "2026-08-22": 45
     }
   },
   {
@@ -1655,13 +1672,13 @@
     "url": "http://www.cidea.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cidea.una.ac.cr.ico",
     "slug": "portal-cidea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.00%",
-    "time": 945,
+    "time": 946,
     "timeDay": 1314,
     "timeWeek": 749,
     "timeMonth": 771,
@@ -1688,7 +1705,8 @@
       "2026-04-28": 315,
       "2026-04-27": 106,
       "2026-06-03": 879,
-      "2026-07-21": 61
+      "2026-07-21": 61,
+      "2026-08-22": 1
     }
   }
 ]
