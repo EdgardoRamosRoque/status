@@ -389,16 +389,16 @@
     "url": "https://www.documentos.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.documentos.una.ac.cr.ico",
     "slug": "portal-documentos",
-    "status": "down",
+    "status": "up",
     "uptime": "98.72%",
-    "uptimeDay": "33.04%",
-    "uptimeWeek": "81.33%",
-    "uptimeMonth": "95.70%",
-    "uptimeYear": "94.31%",
+    "uptimeDay": "29.03%",
+    "uptimeWeek": "80.05%",
+    "uptimeMonth": "95.41%",
+    "uptimeYear": "94.28%",
     "time": 1377,
-    "timeDay": 1070,
-    "timeWeek": 862,
-    "timeMonth": 606,
+    "timeDay": 1061,
+    "timeWeek": 886,
+    "timeMonth": 621,
     "timeYear": 1320,
     "dailyMinutesDown": {
       "2025-11-28": 24,
@@ -444,7 +444,7 @@
       "2026-06-02": 9,
       "2026-08-22": 832,
       "2026-08-23": 1044,
-      "2026-08-24": 6
+      "2026-08-24": 135
     }
   },
   {
@@ -452,17 +452,17 @@
     "url": "https://www.repositorio.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.repositorio.una.ac.cr.ico",
     "slug": "portal-repositorio",
-    "status": "down",
+    "status": "up",
     "uptime": "98.78%",
-    "uptimeDay": "19.76%",
-    "uptimeWeek": "82.25%",
-    "uptimeMonth": "92.70%",
-    "uptimeYear": "94.60%",
+    "uptimeDay": "10.77%",
+    "uptimeWeek": "80.96%",
+    "uptimeMonth": "92.41%",
+    "uptimeYear": "94.57%",
     "time": 3475,
-    "timeDay": 2085,
-    "timeWeek": 1576,
-    "timeMonth": 6979,
-    "timeYear": 3937,
+    "timeDay": 1764,
+    "timeWeek": 1561,
+    "timeMonth": 6884,
+    "timeYear": 3933,
     "dailyMinutesDown": {
       "2026-03-28": 449,
       "2026-03-29": 891,
@@ -524,7 +524,7 @@
       "2026-08-16": 16,
       "2026-08-22": 634,
       "2026-08-23": 1071,
-      "2026-08-24": 85
+      "2026-08-24": 215
     }
   },
   {
@@ -535,9 +535,9 @@
     "status": "down",
     "uptime": "99.49%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "73.71%",
-    "uptimeMonth": "93.95%",
-    "uptimeYear": "97.74%",
+    "uptimeWeek": "72.42%",
+    "uptimeMonth": "93.65%",
+    "uptimeYear": "97.72%",
     "time": 2340,
     "timeDay": 0,
     "timeWeek": 539,
@@ -591,7 +591,7 @@
       "2026-06-03": 1181,
       "2026-06-17": 81,
       "2026-07-21": 66,
-      "2026-08-24": 85,
+      "2026-08-24": 216,
       "2026-08-23": 1440,
       "2026-08-22": 1124
     }
@@ -800,7 +800,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-24": 85,
+      "2026-08-24": 216,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
