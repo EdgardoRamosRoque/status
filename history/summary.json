@@ -446,10 +446,10 @@
     "slug": "portal-repositorio",
     "status": "down",
     "uptime": "98.78%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "80.95%",
-    "uptimeMonth": "92.40%",
-    "uptimeYear": "94.59%",
+    "uptimeDay": "88.72%",
+    "uptimeWeek": "79.35%",
+    "uptimeMonth": "92.04%",
+    "uptimeYear": "94.56%",
     "time": 3487,
     "timeDay": 0,
     "timeWeek": 2406,
@@ -517,7 +517,7 @@
       "2026-08-22": 634,
       "2026-08-23": 1071,
       "2026-08-24": 215,
-      "2026-08-27": 1
+      "2026-08-27": 162
     }
   },
   {
@@ -535,7 +535,7 @@
     "timeDay": 781,
     "timeWeek": 588,
     "timeMonth": 611,
-    "timeYear": 2522,
+    "timeYear": 2526,
     "dailyMinutesDown": {
       "2026-01-26": 121,
       "2026-01-27": 87,
@@ -599,7 +599,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.92%",
     "uptimeMonth": "98.83%",
-    "uptimeYear": "91.51%",
+    "uptimeYear": "91.54%",
     "time": 851,
     "timeDay": 842,
     "timeWeek": 682,
@@ -779,7 +779,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aulavirtual.una.ac.cr.ico",
     "slug": "aula-virtual-institucional",
     "status": "down",
-    "uptime": "69.98%",
+    "uptime": "69.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -790,7 +790,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-27": 262,
+      "2026-08-27": 423,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
