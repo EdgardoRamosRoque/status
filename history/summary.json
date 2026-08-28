@@ -161,7 +161,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.directorio.una.ac.cr.ico",
     "slug": "portal-directorio",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.11%",
     "uptimeMonth": "99.10%",
@@ -446,9 +446,9 @@
     "status": "down",
     "uptime": "98.75%",
     "uptimeDay": "48.33%",
-    "uptimeWeek": "72.10%",
-    "uptimeMonth": "90.70%",
-    "uptimeYear": "94.44%",
+    "uptimeWeek": "70.90%",
+    "uptimeMonth": "90.42%",
+    "uptimeYear": "94.41%",
     "time": 3508,
     "timeDay": 9427,
     "timeWeek": 4097,
@@ -517,7 +517,7 @@
       "2026-08-23": 1071,
       "2026-08-24": 215,
       "2026-08-27": 892,
-      "2026-08-28": 1
+      "2026-08-28": 122
     }
   },
   {
@@ -599,7 +599,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.92%",
     "uptimeMonth": "98.83%",
-    "uptimeYear": "91.81%",
+    "uptimeYear": "91.84%",
     "time": 852,
     "timeDay": 900,
     "timeWeek": 717,
@@ -778,7 +778,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aulavirtual.una.ac.cr.ico",
     "slug": "aula-virtual-institucional",
     "status": "down",
-    "uptime": "69.93%",
+    "uptime": "69.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -789,7 +789,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-28": 411,
+      "2026-08-28": 531,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
