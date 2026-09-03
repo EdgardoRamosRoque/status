@@ -12,7 +12,7 @@
     "uptimeYear": "98.82%",
     "time": 1129,
     "timeDay": 1249,
-    "timeWeek": 1251,
+    "timeWeek": 1233,
     "timeMonth": 1198,
     "timeYear": 1086,
     "dailyMinutesDown": {
@@ -55,7 +55,7 @@
     "uptimeYear": "91.81%",
     "time": 1254,
     "timeDay": 2970,
-    "timeWeek": 1599,
+    "timeWeek": 1637,
     "timeMonth": 1404,
     "timeYear": 1276,
     "dailyMinutesDown": {
@@ -126,7 +126,7 @@
     "uptimeYear": "97.07%",
     "time": 606,
     "timeDay": 487,
-    "timeWeek": 627,
+    "timeWeek": 633,
     "timeMonth": 543,
     "timeYear": 576,
     "dailyMinutesDown": {
@@ -167,7 +167,7 @@
     "uptimeYear": "99.53%",
     "time": 1127,
     "timeDay": 1086,
-    "timeWeek": 1199,
+    "timeWeek": 1191,
     "timeMonth": 1106,
     "timeYear": 1090,
     "dailyMinutesDown": {
@@ -198,7 +198,7 @@
     "uptimeYear": "91.31%",
     "time": 1618,
     "timeDay": 1442,
-    "timeWeek": 1380,
+    "timeWeek": 1376,
     "timeMonth": 1319,
     "timeYear": 1499,
     "dailyMinutesDown": {
@@ -274,7 +274,7 @@
     "uptimeYear": "98.94%",
     "time": 910,
     "timeDay": 759,
-    "timeWeek": 719,
+    "timeWeek": 725,
     "timeMonth": 771,
     "timeYear": 881,
     "dailyMinutesDown": {
@@ -314,7 +314,7 @@
     "uptimeYear": "91.30%",
     "time": 1265,
     "timeDay": 1206,
-    "timeWeek": 1366,
+    "timeWeek": 1357,
     "timeMonth": 1283,
     "timeYear": 1257,
     "dailyMinutesDown": {
@@ -387,7 +387,7 @@
     "uptimeYear": "94.20%",
     "time": 1332,
     "timeDay": 508,
-    "timeWeek": 525,
+    "timeWeek": 519,
     "timeMonth": 633,
     "timeYear": 1308,
     "dailyMinutesDown": {
@@ -441,19 +441,19 @@
     "url": "https://www.repositorio.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.repositorio.una.ac.cr.ico",
     "slug": "portal-repositorio",
-    "status": "up",
-    "uptime": "98.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "64.94%",
+    "status": "down",
+    "uptime": "98.68%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "69.59%",
     "uptimeMonth": "85.63%",
-    "uptimeYear": "94.05%",
-    "time": 3681,
+    "uptimeYear": "94.09%",
+    "time": 3684,
     "timeDay": 1359,
     "timeWeek": 11191,
     "timeMonth": 8756,
     "timeYear": 4178,
     "dailyMinutesDown": {
-      "2026-03-29": 569,
+      "2026-03-29": 370,
       "2026-03-30": 750,
       "2026-03-31": 999,
       "2026-04-01": 696,
@@ -519,7 +519,8 @@
       "2026-08-29": 18,
       "2026-08-31": 360,
       "2026-09-01": 637,
-      "2026-09-02": 67
+      "2026-09-02": 67,
+      "2026-09-03": 1
     }
   },
   {
@@ -535,9 +536,9 @@
     "uptimeYear": "97.58%",
     "time": 2448,
     "timeDay": 601,
-    "timeWeek": 718,
+    "timeWeek": 708,
     "timeMonth": 607,
-    "timeYear": 2605,
+    "timeYear": 2609,
     "dailyMinutesDown": {
       "2026-01-26": 121,
       "2026-01-27": 87,
@@ -604,7 +605,7 @@
     "uptimeYear": "91.93%",
     "time": 851,
     "timeDay": 791,
-    "timeWeek": 811,
+    "timeWeek": 807,
     "timeMonth": 780,
     "timeYear": 875,
     "dailyMinutesDown": {
@@ -672,7 +673,7 @@
     "uptimeYear": "97.85%",
     "time": 1141,
     "timeDay": 861,
-    "timeWeek": 934,
+    "timeWeek": 914,
     "timeMonth": 865,
     "timeYear": 1154,
     "dailyMinutesDown": {
@@ -754,7 +755,7 @@
     "uptimeYear": "99.42%",
     "time": 1146,
     "timeDay": 920,
-    "timeWeek": 971,
+    "timeWeek": 949,
     "timeMonth": 941,
     "timeYear": 1046,
     "dailyMinutesDown": {
@@ -777,7 +778,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aulavirtual.una.ac.cr.ico",
     "slug": "aula-virtual-institucional",
     "status": "down",
-    "uptime": "69.68%",
+    "uptime": "69.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -788,7 +789,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-03": 166,
+      "2026-09-03": 731,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -1168,7 +1169,7 @@
     "uptimeYear": "98.89%",
     "time": 1024,
     "timeDay": 1004,
-    "timeWeek": 1188,
+    "timeWeek": 1185,
     "timeMonth": 1030,
     "timeYear": 1045,
     "dailyMinutesDown": {
@@ -1210,7 +1211,7 @@
     "uptimeYear": "98.94%",
     "time": 871,
     "timeDay": 703,
-    "timeWeek": 837,
+    "timeWeek": 829,
     "timeMonth": 681,
     "timeYear": 814,
     "dailyMinutesDown": {
@@ -1251,7 +1252,7 @@
     "uptimeYear": "98.65%",
     "time": 1469,
     "timeDay": 768,
-    "timeWeek": 1013,
+    "timeWeek": 1027,
     "timeMonth": 2548,
     "timeYear": 1502,
     "dailyMinutesDown": {
@@ -1296,7 +1297,7 @@
     "uptimeYear": "98.89%",
     "time": 1033,
     "timeDay": 886,
-    "timeWeek": 944,
+    "timeWeek": 939,
     "timeMonth": 876,
     "timeYear": 1088,
     "dailyMinutesDown": {
@@ -1339,7 +1340,7 @@
     "uptimeYear": "98.89%",
     "time": 865,
     "timeDay": 700,
-    "timeWeek": 820,
+    "timeWeek": 812,
     "timeMonth": 774,
     "timeYear": 893,
     "dailyMinutesDown": {
@@ -1383,7 +1384,7 @@
     "uptimeYear": "98.87%",
     "time": 1024,
     "timeDay": 1058,
-    "timeWeek": 1031,
+    "timeWeek": 1041,
     "timeMonth": 892,
     "timeYear": 1077,
     "dailyMinutesDown": {
@@ -1427,7 +1428,7 @@
     "uptimeYear": "98.90%",
     "time": 945,
     "timeDay": 871,
-    "timeWeek": 920,
+    "timeWeek": 912,
     "timeMonth": 872,
     "timeYear": 973,
     "dailyMinutesDown": {
@@ -1470,7 +1471,7 @@
     "uptimeYear": "99.30%",
     "time": 832,
     "timeDay": 739,
-    "timeWeek": 886,
+    "timeWeek": 899,
     "timeMonth": 790,
     "timeYear": 797,
     "dailyMinutesDown": {
@@ -1499,7 +1500,7 @@
     "uptimeYear": "99.35%",
     "time": 1016,
     "timeDay": 860,
-    "timeWeek": 911,
+    "timeWeek": 897,
     "timeMonth": 1135,
     "timeYear": 1050,
     "dailyMinutesDown": {
@@ -1530,7 +1531,7 @@
     "uptimeYear": "98.90%",
     "time": 960,
     "timeDay": 775,
-    "timeWeek": 792,
+    "timeWeek": 783,
     "timeMonth": 783,
     "timeYear": 994,
     "dailyMinutesDown": {
@@ -1573,7 +1574,7 @@
     "uptimeYear": "97.01%",
     "time": 972,
     "timeDay": 830,
-    "timeWeek": 841,
+    "timeWeek": 834,
     "timeMonth": 776,
     "timeYear": 924,
     "dailyMinutesDown": {
@@ -1625,7 +1626,7 @@
     "uptimeYear": "98.74%",
     "time": 1061,
     "timeDay": 775,
-    "timeWeek": 829,
+    "timeWeek": 820,
     "timeMonth": 2041,
     "timeYear": 1018,
     "dailyMinutesDown": {
@@ -1669,7 +1670,7 @@
     "uptimeYear": "98.94%",
     "time": 921,
     "timeDay": 776,
-    "timeWeek": 801,
+    "timeWeek": 798,
     "timeMonth": 769,
     "timeYear": 842,
     "dailyMinutesDown": {
