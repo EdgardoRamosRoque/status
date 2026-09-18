@@ -118,13 +118,13 @@
     "url": "https://www.calendario.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.calendario.una.ac.cr.ico",
     "slug": "calendario-universitario",
-    "status": "up",
-    "uptime": "82.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "82.88%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.09%",
     "uptimeYear": "97.07%",
-    "time": 604,
+    "time": 603,
     "timeDay": 464,
     "timeWeek": 559,
     "timeMonth": 563,
@@ -151,7 +151,8 @@
       "2026-06-03": 960,
       "2026-06-02": 33,
       "2026-07-21": 71,
-      "2026-08-22": 397
+      "2026-08-22": 397,
+      "2026-09-18": 1
     }
   },
   {
@@ -539,7 +540,7 @@
     "timeDay": 576,
     "timeWeek": 581,
     "timeMonth": 630,
-    "timeYear": 2847,
+    "timeYear": 2852,
     "dailyMinutesDown": {
       "2026-01-26": 121,
       "2026-01-27": 87,
@@ -778,7 +779,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aulavirtual.una.ac.cr.ico",
     "slug": "aula-virtual-institucional",
     "status": "down",
-    "uptime": "69.04%",
+    "uptime": "69.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -789,7 +790,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-18": 180,
+      "2026-09-18": 1083,
       "2026-09-17": 1440,
       "2026-09-16": 1440,
       "2026-09-15": 1440,
