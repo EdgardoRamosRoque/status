@@ -6,7 +6,7 @@ sites:
   - name: Portal UNA
     url: https://www.una.ac.cr/
   - name: Carreras UNA
-    url: https://carreras.una.ac.cr/    
+    url: https://www.carreras.una.ac.cr/    
   - name: Calendario Universitario  
     url: https://calendario.una.ac.cr/
   - name: Portal Directorio
