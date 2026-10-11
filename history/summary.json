@@ -48,7 +48,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.carreras.una.ac.cr.ico",
     "slug": "carreras-una",
     "status": "up",
-    "uptime": "81.98%",
+    "uptime": "81.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
@@ -119,11 +119,11 @@
     "url": "https://calendario.una.ac.cr/",
     "icon": "https://icons.duckduckgo.com/ip3/calendario.una.ac.cr.ico",
     "slug": "calendario-universitario",
-    "status": "up",
+    "status": "down",
     "uptime": "83.11%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "97.06%",
     "time": 601,
     "timeDay": 477,
@@ -153,7 +153,8 @@
       "2026-06-02": 33,
       "2026-07-21": 71,
       "2026-08-22": 397,
-      "2026-09-18": 77
+      "2026-09-18": 77,
+      "2026-10-11": 1
     }
   },
   {
@@ -541,7 +542,7 @@
     "timeDay": 658,
     "timeWeek": 589,
     "timeMonth": 648,
-    "timeYear": 3256,
+    "timeYear": 3271,
     "dailyMinutesDown": {
       "2026-01-26": 121,
       "2026-01-27": 87,
@@ -780,7 +781,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aulavirtual.una.ac.cr.ico",
     "slug": "aula-virtual-institucional",
     "status": "down",
-    "uptime": "68.09%",
+    "uptime": "68.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -791,7 +792,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-11": 225,
+      "2026-10-11": 1176,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
       "2026-10-08": 1440,
