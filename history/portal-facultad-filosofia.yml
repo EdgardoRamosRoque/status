@@ -1,7 +1,7 @@
 url: https://www.facultadfilosofia.una.ac.cr/
-status: up
-code: 200
-responseTime: 693
-lastUpdated: 2026-10-26T00:59:57.485Z
+status: down
+code: 500
+responseTime: 499
+lastUpdated: 2026-10-26T21:39:07.851Z
 startTime: 2022-03-16T16:15:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
